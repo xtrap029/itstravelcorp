@@ -2,7 +2,7 @@
 # But, for fallback reasons (if you don't route your vhost to /public), it will stay here.
 RewriteEngine on
 RewriteRule ^(.*) public/$1 [L]
-
+ 
 # Everything from is for browser caching and is totally optional
 
 # Deflate Compression by FileType
