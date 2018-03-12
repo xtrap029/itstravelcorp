@@ -1,0 +1,1269 @@
+{
+    "categories": 
+    {
+        "1": "city tour",
+        "2": "firefly tour",
+        "3": "island hopping",
+        "4": "dolphin and whale watching tour",
+        "5": "extreme adventure",
+        "6": "free and easy"
+    },
+
+    "packages":
+    {
+        "bohol countryside tour": {
+            "description": "Enjoy one of the natural wonders of the world “Chocolate Hills” in this package, and be stunned by the scenic countryside views of Bohol in MAN-MADE FOREST and see the TARSIERs, a tour that will give you the glimpse of the life and history of Bohol in BLOOD COMPACT SITE, BACLAYON CHURCH, LOAY BACKYARD INDUSTRY.",
+            "category": "city tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Bohol Countryside Tour",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Bohol Countryside Tour; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/bohol/bohol-cs.jpg",
+            "cover": "assets/img/bohol/bohol-cs.jpg",
+            "rgb": "255,31,31",
+            "hotels" : {
+                "la veranda": {
+                    "twin" : "5688",
+                    "triple" : "5588",
+                    "quad" : "3988",
+                    "category" : "standard"
+                },
+                "bohol bee farm": {
+                    "twin" : "7288",
+                    "triple" : "6288",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bohol la roca": {
+                    "twin" : "7288",
+                    "triple" : "6288",
+                    "quad" : "4188",
+                    "category" : "budget"
+                },
+                "flushing meadows": {
+                    "twin" : "7188",
+                    "triple" : "6888",
+                    "quad" : "6288",
+                    "category" : "standard"
+                },
+                "eco hotel": {
+                    "twin" : "9088",
+                    "triple" : "7488",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "momo beach house": {
+                    "twin" : "10088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "marco polo plaza": {
+                    "twin" : "10188",
+                    "triple" : "9088",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bluewater panglao": {
+                    "twin" : "8588",
+                    "triple" : "8188",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "panglao island": {
+                    "twin" : "9388",
+                    "triple" : "9188",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amarela": {
+                    "twin" : "9488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol beach club": {
+                    "twin" : "9788",
+                    "triple" : "8588",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amorita resort": {
+                    "twin" : "14488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol shores": {
+                    "twin" : "16088",
+                    "triple" : "12788",
+                    "quad" : "10688",
+                    "category" : "luxury"
+                }
+                
+            }
+        },
+
+        "panglao island tour with lunch": {
+            "description": "This package takes you to the popular attractions of Panglao Island. Take a trip back to memory lane in the oldest churches Dauis Church & Panglao Church, and enjoy the nature with Hinagdanan Cave, Bohol Bee Farm and Shell Museum.",
+            "category": "city tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Panglao Island Tour with Lunch",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Panglao Island Tour with Lunch; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/bohol/bohol-panglao.jpg",
+            "cover": "assets/img/bohol/bohol-panglao.jpg",
+            "rgb": "255,133,0",
+            "hotels" : {
+                "la veranda": {
+                    "twin" : "5788",
+                    "triple" : "5688",
+                    "quad" : "3988",
+                    "category" : "standard"
+                },
+                "bohol bee farm": {
+                    "twin" : "7388",
+                    "triple" : "6388",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bohol la roca": {
+                    "twin" : "7388",
+                    "triple" : "6388",
+                    "quad" : "4188",
+                    "category" : "budget"
+                },
+                "flushing meadows": {
+                    "twin" : "7288",
+                    "triple" : "6988",
+                    "quad" : "6188",
+                    "category" : "standard"
+                },
+                "eco hotel": {
+                    "twin" : "9288",
+                    "triple" : "7588",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "momo beach house": {
+                    "twin" : "10188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "marco polo plaza": {
+                    "twin" : "10288",
+                    "triple" : "9188",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bluewater panglao": {
+                    "twin" : "8788",
+                    "triple" : "8388",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "panglao island": {
+                    "twin" : "9488",
+                    "triple" : "9288",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amarela": {
+                    "twin" : "9588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol beach club": {
+                    "twin" : "9988",
+                    "triple" : "8788",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amorita resort": {
+                    "twin" : "14588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol shores": {
+                    "twin" : "16288",
+                    "triple" : "12988",
+                    "quad" : "10688",
+                    "category" : "luxury"
+                }
+                
+            }
+        },
+
+
+        "tagbilaran city tour": {
+            "description": "This package shows you the beauty of the capital city of Bohol the city of friendship, see its historical value in the Blood Compact (Sandugo), St. Joseph Cathedral, Bohol Branch of the National Museum, the Governor's Mansion, and the 'Old Tagbilaran' ancestral houses.",
+            "category": "city tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Tagbilaran City Tour",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Tagbilaran City Tour; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/bohol/bohol-tagbilaran.jpg",
+            "cover": "assets/img/bohol/bohol-tagbilaran.jpg",
+            "rgb": "0,104,255",
+            "hotels" : {
+                "la veranda": {
+                    "twin" : "4888",
+                    "triple" : "4788",
+                    "quad" : "3388",
+                    "category" : "standard"
+                },
+                "bohol bee farm": {
+                    "twin" : "6488",
+                    "triple" : "5488",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bohol la roca": {
+                    "twin" : "6488",
+                    "triple" : "5488",
+                    "quad" : "3488",
+                    "category" : "budget"
+                },
+                "flushing meadows": {
+                    "twin" : "6388",
+                    "triple" : "6088",
+                    "quad" : "5588",
+                    "category" : "standard"
+                },
+                "eco hotel": {
+                    "twin" : "8388",
+                    "triple" : "6688",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "momo beach house": {
+                    "twin" : "9288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "marco polo plaza": {
+                    "twin" : "9388",
+                    "triple" : "8288",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bluewater panglao": {
+                    "twin" : "7788",
+                    "triple" : "7388",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "panglao island": {
+                    "twin" : "8588",
+                    "triple" : "8388",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amarela": {
+                    "twin" : "8688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol beach club": {
+                    "twin" : "8988",
+                    "triple" : "7788",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amorita resort": {
+                    "twin" : "13688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol shores": {
+                    "twin" : "15288",
+                    "triple" : "11988",
+                    "quad" : "9988",
+                    "category" : "luxury"
+                }
+                
+            }
+        },
+
+
+        "firefly tour": {
+            "description": "This package will take you to the magical place with the lights of the fireflies which is very unique, wondrous spectacle, especially for city dwellers, you can even catch a glimpse of birds sleeping among the branches of trees.",
+            "category": "firefly tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Firefly Tour",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; in the evening enjoy the Firefly Tour; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/bohol/bohol-Firefly.jpg",
+            "cover": "assets/img/bohol/bohol-Firefly.jpg",
+            "rgb": "255,218,0",
+            "hotels" : {
+                "la veranda": {
+                    "twin" : "6588",
+                    "triple" : "6488",
+                    "quad" : "4888",
+                    "category" : "standard"
+                },
+                "bohol bee farm": {
+                    "twin" : "8188",
+                    "triple" : "7188",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bohol la roca": {
+                    "twin" : "8188",
+                    "triple" : "7188",
+                    "quad" : "5088",
+                    "category" : "budget"
+                },
+                "flushing meadows": {
+                    "twin" : "8088",
+                    "triple" : "7788",
+                    "quad" : "7088",
+                    "category" : "standard"
+                },
+                "eco hotel": {
+                    "twin" : "10088",
+                    "triple" : "8388",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "momo beach house": {
+                    "twin" : "10988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "marco polo plaza": {
+                    "twin" : "11088",
+                    "triple" : "9988",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bluewater panglao": {
+                    "twin" : "9488",
+                    "triple" : "9088",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "panglao island": {
+                    "twin" : "10288",
+                    "triple" : "10088",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amarela": {
+                    "twin" : "10388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol beach club": {
+                    "twin" : "10688",
+                    "triple" : "9488",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amorita resort": {
+                    "twin" : "15388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol shores": {
+                    "twin" : "16988",
+                    "triple" : "13688",
+                    "quad" : "11488",
+                    "category" : "luxury"
+                }
+                
+            }
+        },
+        
+        
+        "island hopping and snorkeling tour": {
+            "description": "Indulge and take a deep in the sea of Pamilacan Island, enjoy the powdery sands and snorkel and see the coral gardens.",
+            "category": "island hopping",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Island Hopping and Snorkeling Tour",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed Island Hopping and Snorkeling Tour; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/bohol/bohol-IH-PAMILACAN.jpg",
+            "cover": "assets/img/bohol/bohol-IH-PAMILACAN.jpg",
+            "rgb": "173,0,255",
+            "hotels" : {
+                "la veranda": {
+                    "twin" : "5088",
+                    "triple" : "4988",
+                    "quad" : "3388",
+                    "category" : "standard"
+                },
+                "bohol bee farm": {
+                    "twin" : "6688",
+                    "triple" : "5588",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bohol la roca": {
+                    "twin" : "6688",
+                    "triple" : "5588",
+                    "quad" : "3588",
+                    "category" : "budget"
+                },
+                "flushing meadows": {
+                    "twin" : "6488",
+                    "triple" : "6188",
+                    "quad" : "5588",
+                    "category" : "standard"
+                },
+                "eco hotel": {
+                    "twin" : "8488",
+                    "triple" : "6888",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "momo beach house": {
+                    "twin" : "9388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "marco polo plaza": {
+                    "twin" : "9488",
+                    "triple" : "8388",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bluewater panglao": {
+                    "twin" : "7988",
+                    "triple" : "7588",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "panglao island": {
+                    "twin" : "8688",
+                    "triple" : "8488",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amarela": {
+                    "twin" : "8888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol beach club": {
+                    "twin" : "9188",
+                    "triple" : "7988",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amorita resort": {
+                    "twin" : "13888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol shores": {
+                    "twin" : "15488",
+                    "triple" : "12188",
+                    "quad" : "10088",
+                    "category" : "luxury"
+                }
+                
+            }
+        },
+
+
+
+        "island hopping and snorkeling in balicasag island": {
+            "description": "Enjoy the Island Hopping in Balicasag and Virgin Island Day Tour. Snorkel in the popular Balicasag Island Marine Sanctuary where you can see the rich marine life there is.",
+            "category": "island hopping",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Island Hopping and Snorkeling Tour in Balicasag Island",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed Island Hopping and Snorkeling Tour; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/bohol/bohol-IH-balicasag.jpg",
+            "cover": "assets/img/bohol/bohol-IH-balicasag.jpg",
+            "rgb": "255,31,31",
+            "hotels" : {
+                "la veranda": {
+                    "twin" : "5188",
+                    "triple" : "5088",
+                    "quad" : "3588",
+                    "category" : "standard"
+                },
+                "bohol bee farm": {
+                    "twin" : "6788",
+                    "triple" : "5688",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bohol la roca": {
+                    "twin" : "6788",
+                    "triple" : "5688",
+                    "quad" : "3788",
+                    "category" : "budget"
+                },
+                "flushing meadows": {
+                    "twin" : "6688",
+                    "triple" : "6288",
+                    "quad" : "5788",
+                    "category" : "standard"
+                },
+                "eco hotel": {
+                    "twin" : "8588",
+                    "triple" : "6988",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "momo beach house": {
+                    "twin" : "9488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "marco polo plaza": {
+                    "twin" : "9688",
+                    "triple" : "8488",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bluewater panglao": {
+                    "twin" : "8088",
+                    "triple" : "7688",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "panglao island": {
+                    "twin" : "8788",
+                    "triple" : "8588",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amarela": {
+                    "twin" : "8988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol beach club": {
+                    "twin" : "9288",
+                    "triple" : "8088",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amorita resort": {
+                    "twin" : "13988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol shores": {
+                    "twin" : "15588",
+                    "triple" : "12288",
+                    "quad" : "10188",
+                    "category" : "luxury"
+                }
+                
+            }
+        },
+
+
+        "twin island hopping tour": {
+            "description": "Enjoy two beautiful Islands in this package, sun bathe in Pamilacan Island or snorkel in Balicasag Island.",
+            "category": "island hopping",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Twin Island-Hopping Tour",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed Twin Island-Hopping Tour; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/bohol/bohol-IH-twin.jpg",
+            "cover": "assets/img/bohol/bohol-IH-twin.jpg",
+            "rgb": "255,133,0",
+            "hotels" : {
+                "la veranda": {
+                    "twin" : "5588",
+                    "triple" : "5488",
+                    "quad" : "3888",
+                    "category" : "standard"
+                },
+                "bohol bee farm": {
+                    "twin" : "7188",
+                    "triple" : "6188",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bohol la roca": {
+                    "twin" : "7188",
+                    "triple" : "6188",
+                    "quad" : "4088",
+                    "category" : "budget"
+                },
+                "flushing meadows": {
+                    "twin" : "7088",
+                    "triple" : "6788",
+                    "quad" : "6088",
+                    "category" : "standard"
+                },
+                "eco hotel": {
+                    "twin" : "9088",
+                    "triple" : "7388",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "momo beach house": {
+                    "twin" : "9988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "marco polo plaza": {
+                    "twin" : "10088",
+                    "triple" : "8988",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bluewater panglao": {
+                    "twin" : "8488",
+                    "triple" : "8088",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "panglao island": {
+                    "twin" : "9288",
+                    "triple" : "9088",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amarela": {
+                    "twin" : "9388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol beach club": {
+                    "twin" : "9688",
+                    "triple" : "8488",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amorita resort": {
+                    "twin" : "14388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol shores": {
+                    "twin" : "15988",
+                    "triple" : "12688",
+                    "quad" : "10488",
+                    "category" : "luxury"
+                }
+                
+            }
+        },
+
+        "dolphin and whale watching tour": {
+            "description": "Get to experience watching the whales and dolphins in the Bohol Sea with the locals of Pamilacan, and have your lunch in the beach.",
+            "category": "dolphin and whale watching tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Dolphin and Whale watching tour",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed DOLPHIN AND WHALE WATCHING TOUR; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/bohol/bohol-dolph.jpg",
+            "cover": "assets/img/bohol/bohol-dolph.jpg",
+            "rgb": "0,104,255",
+            "hotels" : {
+                "la veranda": {
+                    "twin" : "5288",
+                    "triple" : "5188",
+                    "quad" : "3588",
+                    "category" : "standard"
+                },
+                "bohol bee farm": {
+                    "twin" : "6888",
+                    "triple" : "5788",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bohol la roca": {
+                    "twin" : "6888",
+                    "triple" : "5788",
+                    "quad" : "3788",
+                    "category" : "budget"
+                },
+                "flushing meadows": {
+                    "twin" : "6788",
+                    "triple" : "6388",
+                    "quad" : "5788",
+                    "category" : "standard"
+                },
+                "eco hotel": {
+                    "twin" : "8688",
+                    "triple" : "7088",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "momo beach house": {
+                    "twin" : "9588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "marco polo plaza": {
+                    "twin" : "9788",
+                    "triple" : "8588",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bluewater panglao": {
+                    "twin" : "8188",
+                    "triple" : "7788",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "panglao island": {
+                    "twin" : "8888",
+                    "triple" : "8688",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amarela": {
+                    "twin" : "9088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol beach club": {
+                    "twin" : "9388",
+                    "triple" : "8188",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amorita resort": {
+                    "twin" : "14088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol shores": {
+                    "twin" : "15688",
+                    "triple" : "12388",
+                    "quad" : "10288",
+                    "category" : "luxury"
+                }
+                
+            }
+        },
+
+
+        "pamilacan balicasag island and virgin island sandbar": {
+            "description": "Get to experience watching the whales and dolphins in the Bohol Sea with the locals of Pamilacan, and have your lunch in the beach. And snorkel and swim with the turtles in Balicasag Island then be amaze when you see the virgin Island.",
+            "category": "dolphin and whale watching tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Dolphin and whale watching in pamilacan island & swimming with the Turtles in Balicasag island & sand bar in Virgin Island",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed Dolphin and whale watching in pamilacan island & swimming with the Turtles in Balicasag island & sand bar in Virgin Island; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/bohol/bohol-turtles.jpg",
+            "cover": "assets/img/bohol/bohol-turtles.jpg",
+            "rgb": "248,44,255",
+            "hotels" : {
+                "la veranda": {
+                    "twin" : "5888",
+                    "triple" : "5788",
+                    "quad" : "4188",
+                    "category" : "standard"
+                },
+                "bohol bee farm": {
+                    "twin" : "7488",
+                    "triple" : "6488",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bohol la roca": {
+                    "twin" : "7488",
+                    "triple" : "6488",
+                    "quad" : "4388",
+                    "category" : "budget"
+                },
+                "flushing meadows": {
+                    "twin" : "7388",
+                    "triple" : "7088",
+                    "quad" : "6388",
+                    "category" : "standard"
+                },
+                "eco hotel": {
+                    "twin" : "9388",
+                    "triple" : "7688",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "momo beach house": {
+                    "twin" : "10288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "marco polo plaza": {
+                    "twin" : "10388",
+                    "triple" : "9288",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bluewater panglao": {
+                    "twin" : "8888",
+                    "triple" : "8488",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "panglao island": {
+                    "twin" : "9588",
+                    "triple" : "9388",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amarela": {
+                    "twin" : "9688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol beach club": {
+                    "twin" : "10088",
+                    "triple" : "8888",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amorita resort": {
+                    "twin" : "14688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol shores": {
+                    "twin" : "16388",
+                    "triple" : "13088",
+                    "quad" : "10788",
+                    "category" : "luxury"
+                }
+                
+            }
+        },
+
+
+        "dolphin and whale watching and countryside tour": {
+            "description": "Get to experience watching the whales and dolphins in the Bohol Sea with the locals of Pamilacan, and have your lunch in the beach. You’ll also get to see the beautiful views of natural wonders of the world “Chocolate Hills” in this package, and be stunned by the scenic countryside views of Bohol in MAN-MADE FOREST and see the TARSIERs, a tour that will give you the glimpse of the life and history of Bohol in BLOOD COMPACT SITE, BACLAYON CHURCH, LOAY BACKYARD INDUSTRY.",
+            "category": "dolphin and whale watching tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Dolphin and Whale Watching and Bohol Countryside Tour",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed Dolphin and Whale Watching and Bohol Countryside Tour; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/bohol/bohol-dolphwhale.jpg",
+            "cover": "assets/img/bohol/bohol-dolphwhale.jpg",
+            "rgb": "46,241,87",
+            "hotels" : {
+                "la veranda": {
+                    "twin" : "6988",
+                    "triple" : "6888",
+                    "quad" : "4988",
+                    "category" : "standard"
+                },
+                "bohol bee farm": {
+                    "twin" : "8588",
+                    "triple" : "7588",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bohol la roca": {
+                    "twin" : "8588",
+                    "triple" : "7588",
+                    "quad" : "5188",
+                    "category" : "budget"
+                },
+                "flushing meadows": {
+                    "twin" : "8488",
+                    "triple" : "8188",
+                    "quad" : "7288",
+                    "category" : "standard"
+                },
+                "eco hotel": {
+                    "twin" : "10488",
+                    "triple" : "8788",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "momo beach house": {
+                    "twin" : "11388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "marco polo plaza": {
+                    "twin" : "11488",
+                    "triple" : "10388",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bluewater panglao": {
+                    "twin" : "9888",
+                    "triple" : "9488",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "panglao island": {
+                    "twin" : "10688",
+                    "triple" : "10488",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amarela": {
+                    "twin" : "10788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol beach club": {
+                    "twin" : "11088",
+                    "triple" : "9888",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amorita resort": {
+                    "twin" : "15788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol shores": {
+                    "twin" : "17388",
+                    "triple" : "14088",
+                    "quad" : "11688",
+                    "category" : "luxury"
+                }
+                
+            }
+        },
+
+
+
+        "danao extreme adventure": {
+            "description": "Unleash your adventurous side get ready to be close with nature choose from zipline, suislide, root climbing and many more, a once in a lifetime experience in Danao.",
+            "category": "extreme adventure",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Danao Extreme Adventure",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Danao Extreme Adventure Tour; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/bohol/bohol-danao.jpg",
+            "cover": "assets/img/bohol/bohol-danao.jpg",
+            "rgb": "173,0,255",
+            "hotels" : {
+                "la veranda": {
+                    "twin" : "7788",
+                    "triple" : "7688",
+                    "quad" : "5588",
+                    "category" : "standard"
+                },
+                "bohol bee farm": {
+                    "twin" : "9388",
+                    "triple" : "8288",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bohol la roca": {
+                    "twin" : "9388",
+                    "triple" : "8288",
+                    "quad" : "5788",
+                    "category" : "budget"
+                },
+                "flushing meadows": {
+                    "twin" : "9288",
+                    "triple" : "8888",
+                    "quad" : "7788",
+                    "category" : "standard"
+                },
+                "eco hotel": {
+                    "twin" : "11188",
+                    "triple" : "9588",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "momo beach house": {
+                    "twin" : "12088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "marco polo plaza": {
+                    "twin" : "12288",
+                    "triple" : "11088",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bluewater panglao": {
+                    "twin" : "10688",
+                    "triple" : "10288",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "panglao island": {
+                    "twin" : "11388",
+                    "triple" : "11188",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amarela": {
+                    "twin" : "11588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol beach club": {
+                    "twin" : "11888",
+                    "triple" : "10688",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amorita resort": {
+                    "twin" : "16588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol shores": {
+                    "twin" : "18188",
+                    "triple" : "14888",
+                    "quad" : "12288",
+                    "category" : "luxury"
+                }
+                
+            }
+        },
+
+
+
+        "free and easy": {
+            "description": "This Package Gives you the opportunity to relax and unwind, follow your own way on how you want to explore the destination.",
+            "category": "free and easy",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Daily Breakfast",
+                "3": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Free day.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/bohol/free-and-easy.jpg",
+            "cover": "assets/img/bohol/free-and-easy.jpg",
+            "rgb": "255,31,31",
+            "hotels" : {
+                "la veranda": {
+                    "twin" : "3088",
+                    "triple" : "2988",
+                    "quad" : "1888",
+                    "category" : "standard"
+                },
+                "bohol bee farm": {
+                    "twin" : "4688",
+                    "triple" : "3688",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bohol la roca": {
+                    "twin" : "4688",
+                    "triple" : "3688",
+                    "quad" : "2088",
+                    "category" : "budget"
+                },
+                "flushing meadows": {
+                    "twin" : "4588",
+                    "triple" : "4288",
+                    "quad" : "4088",
+                    "category" : "standard"
+                },
+                "eco hotel": {
+                    "twin" : "6588",
+                    "triple" : "4888",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "momo beach house": {
+                    "twin" : "7488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "marco polo plaza": {
+                    "twin" : "7588",
+                    "triple" : "6488",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bluewater panglao": {
+                    "twin" : "6088",
+                    "triple" : "5688",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "panglao island": {
+                    "twin" : "6788",
+                    "triple" : "6588",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amarela": {
+                    "twin" : "6888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol beach club": {
+                    "twin" : "7288",
+                    "triple" : "6088",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "amorita resort": {
+                    "twin" : "11888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "bohol shores": {
+                    "twin" : "13588",
+                    "triple" : "10288",
+                    "quad" : "8588",
+                    "category" : "luxury"
+                }
+                
+            }
+        }
+
+    },
+
+
+    "images" : {
+        "la veranda": {
+            "cover" : "assets/img/bohol/hotels/laveranda.jpg"
+        },
+        "bohol bee farm": {
+            "cover" : "assets/img/bohol/hotels/bbf.jpg"
+        },
+        "bohol la roca": {
+            "cover" : "assets/img/bohol/hotels/laroca.jpg"
+        },
+        "flushing meadows": {
+            "cover" : "assets/img/bohol/hotels/flushing.jpg"
+        },
+        "eco hotel": {
+            "cover" : "assets/img/bohol/hotels/eco.jpg"
+        },
+        "momo beach house": {
+            "cover" : "assets/img/bohol/hotels/momo.jpg"
+        },
+        "marco polo plaza": {
+            "cover" : "assets/img/bohol/hotels/marco.jpg"
+        },
+        "bluewater panglao": {
+            "cover" : "assets/img/bohol/hotels/bluewater.jpg"
+        },
+        "panglao island": {
+            "cover" : "assets/img/bohol/hotels/mithi.jpg"
+        },
+        "amarela": {
+            "cover" : "assets/img/bohol/hotels/amarela.jpg"
+        },
+        "bohol beach club": {
+            "cover" : "assets/img/bohol/hotels/bbc.jpg"
+        },
+        "amorita resort": {
+            "cover" : "assets/img/bohol/hotels/amorita.jpg"
+        },
+        "bohol shores": {
+            "cover" : "assets/img/bohol/hotels/shores.jpg"
+        }
+    }
+}

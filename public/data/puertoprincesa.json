@@ -1,0 +1,967 @@
+{
+    "categories": 
+    {
+        "1": "island tour",
+        "2": "city tour",
+        "3": "under ground river tour",
+        "4": "firefly watching",
+        "5": "free and easy"
+    },
+
+    "packages":
+    {
+        "half day city tour": {
+            "description": "Get experience the best of Puerto Princesa. Travel back to the history of this place with the Conception Cathedral, Plaza Cuartel and enjoy nature at Baker’s Hill, Mitra’s Ranch.",
+            "category": "city tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Half Day City Tour",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Half Day City Tour; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/puertoprincesa/pp-city.jpg",
+            "cover": "assets/img/puertoprincesa/pp-city.jpg",
+            "rgb": "255,31,31",
+            "hotels" : {
+                "a&a plaza hotel": {
+                    "twin" : "2688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "casa fuerte": {
+                    "twin" : "2688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "marianne home inn": {
+                    "twin" : "2788",
+                    "triple" : "2088",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "citystate austrias": {
+                    "twin" : "3188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "blue lagoon": {
+                    "twin" : "3188",
+                    "triple" : "2988",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "ipil suites": {
+                    "twin" : "3188",
+                    "triple" : "2788",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "skylight hotel": {
+                    "twin" : "3388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "acacia tree": {
+                    "twin" : "3788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sunlight guest hotel": {
+                    "twin" : "3788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "marianne hotel": {
+                    "twin" : "4488",
+                    "triple" : "3188",
+                    "quad" : "2588",
+                    "category" : "budget"
+                },
+                "empire suites": {
+                    "twin" : "4688",
+                    "triple" : "3388",
+                    "quad" : "2688",
+                    "category" : "standard"
+                },
+                "the legend palawan": {
+                    "twin" : "4688",
+                    "triple" : "4188",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "panya resort": {
+                    "twin" : "4688",
+                    "triple" : "4388",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "holiday suites": {
+                    "twin" : "5088",
+                    "triple" : "3688",
+                    "quad" : "2888",
+                    "category" : "budget"
+                },
+                "one manalo place": {
+                    "twin" : "5188",
+                    "triple" : "4288",
+                    "quad" : "3888",
+                    "category" : "standard"
+                },
+                "palawan uno hotel": {
+                    "twin" : "5488",
+                    "triple" : "3888",
+                    "quad" : "3088",
+                    "category" : "standard"
+                },
+                "canvas boutique": {
+                    "twin" : "5588",
+                    "triple" : "4688",
+                    "quad" : "4188",
+                    "category" : "luxury"
+                },
+                "palo alto": {
+                    "twin" : "6388",
+                    "triple" : "4888",
+                    "quad" : "4188",
+                    "category" : "budget"
+                },
+                "hue hotels and resorts": {
+                    "twin" : "6888",
+                    "triple" : "5788",
+                    "quad" : "5288",
+                    "category" : "luxury"
+                },
+                "astoria palawan": {
+                    "twin" : "7288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "dos palmas": {
+                    "twin" : "8888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                }
+                
+            }
+        },
+
+
+        "dos palmas day tour with lunch": {
+            "description": "Get to witness the beautiful Island of Dos Palmas, Where you can swim in its clear waters or sun bathe in its fine sands.",
+            "category": "city tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Dos Palmas Day tour with Lunch",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Dos Palmas Day tour with Lunch; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/puertoprincesa/pp-dosp.jpg",
+            "cover": "assets/img/puertoprincesa/pp-dosp.jpg",
+            "rgb": "255,133,0",
+            "hotels" : {
+                "a&a plaza hotel": {
+                    "twin" : "4288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "casa fuerte": {
+                    "twin" : "4388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "marianne home inn": {
+                    "twin" : "4388",
+                    "triple" : "3688",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "citystate austrias": {
+                    "twin" : "4888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "blue lagoon": {
+                    "twin" : "4888",
+                    "triple" : "4688",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "ipil suites": {
+                    "twin" : "4888",
+                    "triple" : "4388",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "skylight hotel": {
+                    "twin" : "4988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "acacia tree": {
+                    "twin" : "5388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sunlight guest hotel": {
+                    "twin" : "5488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "marianne hotel": {
+                    "twin" : "6088",
+                    "triple" : "4788",
+                    "quad" : "4188",
+                    "category" : "budget"
+                },
+                "empire suites": {
+                    "twin" : "6288",
+                    "triple" : "4988",
+                    "quad" : "4288",
+                    "category" : "standard"
+                },
+                "the legend palawan": {
+                    "twin" : "6388",
+                    "triple" : "5888",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "panya resort": {
+                    "twin" : "6388",
+                    "triple" : "5988",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "holiday suites": {
+                    "twin" : "6788",
+                    "triple" : "5288",
+                    "quad" : "4588",
+                    "category" : "budget"
+                },
+                "one manalo place": {
+                    "twin" : "6788",
+                    "triple" : "5988",
+                    "quad" : "5488",
+                    "category" : "standard"
+                },
+                "palawan uno hotel": {
+                    "twin" : "7088",
+                    "triple" : "5588",
+                    "quad" : "4788",
+                    "category" : "standard"
+                },
+                "canvas boutique": {
+                    "twin" : "7188",
+                    "triple" : "6288",
+                    "quad" : "5788",
+                    "category" : "luxury"
+                },
+                "palo alto": {
+                    "twin" : "7988",
+                    "triple" : "6488",
+                    "quad" : "5788",
+                    "category" : "budget"
+                },
+                "hue hotels and resorts": {
+                    "twin" : "8488",
+                    "triple" : "7388",
+                    "quad" : "6888",
+                    "category" : "luxury"
+                },
+                "astoria palawan": {
+                    "twin" : "8888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                }
+                
+            }
+        },
+
+
+        "honda bay island hopping": {
+            "description": "Enjoy the white sands and Beautiful beaches of Starfish Island, Luli Island, Cowrie Island and the Private Pandan Island.",
+            "category": "island tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Honda Bay Island Hopping",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Honda Bay Island Hopping; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/puertoprincesa/pp-honda.jpg",
+            "cover": "assets/img/puertoprincesa/pp-honda.jpg",
+            "rgb": "0,104,255",
+            "hotels" : {
+                "a&a plaza hotel": {
+                    "twin" : "3288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "casa fuerte": {
+                    "twin" : "3288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "marianne home inn": {
+                    "twin" : "3388",
+                    "triple" : "2788",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "citystate austrias": {
+                    "twin" : "3788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "blue lagoon": {
+                    "twin" : "3788",
+                    "triple" : "3588",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "ipil suites": {
+                    "twin" : "3788",
+                    "triple" : "3388",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "skylight hotel": {
+                    "twin" : "3988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "acacia tree": {
+                    "twin" : "4388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sunlight guest hotel": {
+                    "twin" : "4388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "marianne hotel": {
+                    "twin" : "4988",
+                    "triple" : "3788",
+                    "quad" : "3188",
+                    "category" : "budget"
+                },
+                "empire suites": {
+                    "twin" : "5188",
+                    "triple" : "3988",
+                    "quad" : "3288",
+                    "category" : "standard"
+                },
+                "the legend palawan": {
+                    "twin" : "5288",
+                    "triple" : "4788",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "panya resort": {
+                    "twin" : "5288",
+                    "triple" : "4988",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "holiday suites": {
+                    "twin" : "5688",
+                    "triple" : "4288",
+                    "quad" : "3488",
+                    "category" : "budget"
+                },
+                "one manalo place": {
+                    "twin" : "5688",
+                    "triple" : "4888",
+                    "quad" : "4488",
+                    "category" : "standard"
+                },
+                "palawan uno hotel": {
+                    "twin" : "5988",
+                    "triple" : "4488",
+                    "quad" : "3688",
+                    "category" : "standard"
+                },
+                "canvas boutique": {
+                    "twin" : "6088",
+                    "triple" : "5188",
+                    "quad" : "4688",
+                    "category" : "luxury"
+                },
+                "palo alto": {
+                    "twin" : "6788",
+                    "triple" : "5388",
+                    "quad" : "4688",
+                    "category" : "budget"
+                },
+                "hue hotels and resorts": {
+                    "twin" : "7288",
+                    "triple" : "6288",
+                    "quad" : "5788",
+                    "category" : "luxury"
+                },
+                "astoria palawan": {
+                    "twin" : "7688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "dos palmas": {
+                    "twin" : "9188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                }
+                
+            }
+        },
+
+
+        "under ground river tour": {
+            "description": "Get to see one of the New Seven Wonders of Nature. See the spectacural limestone formation and enjoy the gift of mother nature in this park.",
+            "category": "under ground river tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Underground River tour",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Underground River tour; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/puertoprincesa/pp-ug.jpg",
+            "cover": "assets/img/puertoprincesa/pp-ug.jpg",
+            "rgb": "46,241,87",
+            "hotels" : {
+                "a&a plaza hotel": {
+                    "twin" : "3788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "casa fuerte": {
+                    "twin" : "3788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "marianne home inn": {
+                    "twin" : "3888",
+                    "triple" : "3188",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "citystate austrias": {
+                    "twin" : "4288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "blue lagoon": {
+                    "twin" : "4288",
+                    "triple" : "4088",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "ipil suites": {
+                    "twin" : "4288",
+                    "triple" : "3888",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "skylight hotel": {
+                    "twin" : "4488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "acacia tree": {
+                    "twin" : "4888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sunlight guest hotel": {
+                    "twin" : "4888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "marianne hotel": {
+                    "twin" : "5488",
+                    "triple" : "4288",
+                    "quad" : "3688",
+                    "category" : "budget"
+                },
+                "empire suites": {
+                    "twin" : "5688",
+                    "triple" : "4388",
+                    "quad" : "3788",
+                    "category" : "standard"
+                },
+                "the legend palawan": {
+                    "twin" : "5788",
+                    "triple" : "5288",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "panya resort": {
+                    "twin" : "5788",
+                    "triple" : "5388",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "holiday suites": {
+                    "twin" : "6088",
+                    "triple" : "4688",
+                    "quad" : "3988",
+                    "category" : "budget"
+                },
+                "one manalo place": {
+                    "twin" : "6188",
+                    "triple" : "5388",
+                    "quad" : "4988",
+                    "category" : "standard"
+                },
+                "palawan uno hotel": {
+                    "twin" : "6488",
+                    "triple" : "4988",
+                    "quad" : "4188",
+                    "category" : "standard"
+                },
+                "canvas boutique": {
+                    "twin" : "6588",
+                    "triple" : "5688",
+                    "quad" : "5188",
+                    "category" : "luxury"
+                },
+                "palo alto": {
+                    "twin" : "7288",
+                    "triple" : "5888",
+                    "quad" : "5188",
+                    "category" : "budget"
+                },
+                "hue hotels and resorts": {
+                    "twin" : "7788",
+                    "triple" : "6788",
+                    "quad" : "6288",
+                    "category" : "luxury"
+                },
+                "astoria palawan": {
+                    "twin" : "8188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "dos palmas": {
+                    "twin" : "9688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                }
+                
+            }
+        },
+
+
+        "firefly watching": {
+            "description": "Watch the fireflies light up the dark mangroves of Puerto Princesa, a magical experience surely unforgettable.",
+            "category": "firefly watching",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Firefly Watching",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Firefly Watching; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/puertoprincesa/pp-firefly.jpg",
+            "cover": "assets/img/puertoprincesa/pp-firefly.jpg",
+            "rgb": "248,44,255",
+            "hotels" : {
+                "a&a plaza hotel": {
+                    "twin" : "2888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "casa fuerte": {
+                    "twin" : "2988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "marianne home inn": {
+                    "twin" : "3088",
+                    "triple" : "2388",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "citystate austrias": {
+                    "twin" : "3488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "blue lagoon": {
+                    "twin" : "3488",
+                    "triple" : "3288",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "ipil suites": {
+                    "twin" : "3488",
+                    "triple" : "3088",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "skylight hotel": {
+                    "twin" : "3588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "acacia tree": {
+                    "twin" : "3988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sunlight guest hotel": {
+                    "twin" : "3988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "marianne hotel": {
+                    "twin" : "4588",
+                    "triple" : "3488",
+                    "quad" : "2888",
+                    "category" : "budget"
+                },
+                "empire suites": {
+                    "twin" : "4888",
+                    "triple" : "3588",
+                    "quad" : "2988",
+                    "category" : "standard"
+                },
+                "the legend palawan": {
+                    "twin" : "4888",
+                    "triple" : "4388",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "panya resort": {
+                    "twin" : "4888",
+                    "triple" : "4588",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "holiday suites": {
+                    "twin" : "5288",
+                    "triple" : "3888",
+                    "quad" : "3188",
+                    "category" : "budget"
+                },
+                "one manalo place": {
+                    "twin" : "5388",
+                    "triple" : "4488",
+                    "quad" : "4088",
+                    "category" : "standard"
+                },
+                "palawan uno hotel": {
+                    "twin" : "5688",
+                    "triple" : "4088",
+                    "quad" : "3388",
+                    "category" : "standard"
+                },
+                "canvas boutique": {
+                    "twin" : "5788",
+                    "triple" : "4788",
+                    "quad" : "4388",
+                    "category" : "luxury"
+                },
+                "palo alto": {
+                    "twin" : "6488",
+                    "triple" : "5088",
+                    "quad" : "4388",
+                    "category" : "budget"
+                },
+                "hue hotels and resorts": {
+                    "twin" : "6988",
+                    "triple" : "5988",
+                    "quad" : "5488",
+                    "category" : "luxury"
+                },
+                "astoria palawan": {
+                    "twin" : "7288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "dos palmas": {
+                    "twin" : "8888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                }
+                
+            }
+        },
+
+
+        "free and easy": {
+            "description": "This Package Gives you the opportunity to relax and unwind, follow your own way on how you want to explore the destination.",
+            "category": "free and easy",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Daily Breakfast",
+                "3": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Free day.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/puertoprincesa/free-and-easy.jpg",
+            "cover": "assets/img/puertoprincesa/free-and-easy.jpg",
+            "rgb": "255,31,31",
+            "hotels" : {
+                "a&a plaza hotel": {
+                    "twin" : "2088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "casa fuerte": {
+                    "twin" : "2088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "marianne home inn": {
+                    "twin" : "2188",
+                    "triple" : "1588",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "citystate austrias": {
+                    "twin" : "2588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "blue lagoon": {
+                    "twin" : "2588",
+                    "triple" : "2388",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "ipil suites": {
+                    "twin" : "2588",
+                    "triple" : "2188",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "skylight hotel": {
+                    "twin" : "2788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "acacia tree": {
+                    "twin" : "3188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sunlight guest hotel": {
+                    "twin" : "3188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "marianne hotel": {
+                    "twin" : "3788",
+                    "triple" : "2588",
+                    "quad" : "1988",
+                    "category" : "budget"
+                },
+                "empire suites": {
+                    "twin" : "3988",
+                    "triple" : "2788",
+                    "quad" : "2088",
+                    "category" : "standard"
+                },
+                "the legend palawan": {
+                    "twin" : "4088",
+                    "triple" : "3588",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "panya resort": {
+                    "twin" : "4088",
+                    "triple" : "3788",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "holiday suites": {
+                    "twin" : "4488",
+                    "triple" : "3088",
+                    "quad" : "2288",
+                    "category" : "budget"
+                },
+                "one manalo place": {
+                    "twin" : "4488",
+                    "triple" : "3688",
+                    "quad" : "3288",
+                    "category" : "standard"
+                },
+                "palawan uno hotel": {
+                    "twin" : "4788",
+                    "triple" : "3288",
+                    "quad" : "2488",
+                    "category" : "standard"
+                },
+                "canvas boutique": {
+                    "twin" : "4888",
+                    "triple" : "3988",
+                    "quad" : "3488",
+                    "category" : "luxury"
+                },
+                "palo alto": {
+                    "twin" : "5588",
+                    "triple" : "4188",
+                    "quad" : "3488",
+                    "category" : "budget"
+                },
+                "hue hotels and resorts": {
+                    "twin" : "6088",
+                    "triple" : "5088",
+                    "quad" : "4588",
+                    "category" : "luxury"
+                },
+                "astoria palawan": {
+                    "twin" : "6488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "dos palmas": {
+                    "twin" : "7988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                }
+                
+            }
+        }
+
+    },
+
+
+    "images" : {
+        "a&a plaza hotel": {
+            "cover" : "assets/img/puertoprincesa/hotels/aa.jpg"
+        },
+        "casa fuerte": {
+            "cover" : "assets/img/puertoprincesa/hotels/casa.jpg"
+        },
+        "marianne home inn": {
+            "cover" : "assets/img/puertoprincesa/hotels/mhi.jpg"
+        },
+        "citystate austrias": {
+            "cover" : "assets/img/puertoprincesa/hotels/citystate.jpg"
+        },
+        "blue lagoon": {
+            "cover" : "assets/img/puertoprincesa/hotels/blue-lagoon.jpg"
+        },
+        "ipil suites": {
+            "cover" : "assets/img/puertoprincesa/hotels/ipil.jpg"
+        },
+        "skylight hotel": {
+            "cover" : "assets/img/puertoprincesa/hotels/skylight.jpg"
+        },
+        "acacia tree": {
+            "cover" : "assets/img/puertoprincesa/hotels/acacia.jpg"
+        },
+        "sunlight guest hotel": {
+            "cover" : "assets/img/puertoprincesa/hotels/sunlight.jpg"
+        },
+        "marianne hotel": {
+            "cover" : "assets/img/puertoprincesa/hotels/mh.jpg"
+        },
+        "empire suites": {
+            "cover" : "assets/img/puertoprincesa/hotels/empire.jpg"
+        },
+        "the legend palawan": {
+            "cover" : "assets/img/puertoprincesa/hotels/tlp.jpg"
+        },
+        "panya resort": {
+            "cover" : "assets/img/puertoprincesa/hotels/panja.jpg"
+        },
+        "holiday suites": {
+            "cover" : "assets/img/puertoprincesa/hotels/holiday.jpg"
+        },
+        "one manalo place": {
+            "cover" : "assets/img/puertoprincesa/hotels/onemanalo.jpg"
+        },
+        "palawan uno hotel": {
+            "cover" : "assets/img/puertoprincesa/hotels/palawan-uno.jpg"
+        },
+        "canvas boutique": {
+            "cover" : "assets/img/puertoprincesa/hotels/canvas.jpg"
+        },
+        "palo alto": {
+            "cover" : "assets/img/puertoprincesa/hotels/paloalto.jpg"
+        },
+        "hue hotels and resorts": {
+            "cover" : "assets/img/puertoprincesa/hotels/hue.jpg"
+        },
+        "astoria palawan": {
+            "cover" : "assets/img/puertoprincesa/hotels/astoria.jpg"
+        },
+        "dos palmas": {
+            "cover" : "assets/img/puertoprincesa/hotels/dp.jpg"
+        }
+    }
+}

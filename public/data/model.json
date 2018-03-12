@@ -1,0 +1,73 @@
+{
+    "categories": 
+    {
+        "1": "island hopping",
+        "2": "free and easy"
+    },
+
+    "packages":
+    {
+        "": {
+            "description": "",
+            "category": "",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; In the afternoon proceed to the Tour; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/.jpg",
+            "cover": "assets/img/.jpg",
+            "rgb": "255,133,0",
+            "hotels" : {
+                "": {
+                    "twin" : "0",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : ""
+                }
+                
+            }
+        }
+
+    },
+
+
+    "images" : {
+        "": {
+            "cover" : ""
+        },
+        "the orchard cebu": {
+            "cover" : "assets/img/cebu/hotels/orchard.jpg"
+        },
+        "sarrosa international": {
+            "cover" : "assets/img/cebu/hotels/sarrosa.jpg"
+        },
+        "citi park hotel": {
+            "cover" : "assets/img/cebu/hotels/citipark.jpg"
+        },
+        "crown regency residence": {
+            "cover" : "assets/img/cebu/hotels/cr-residences.jpg"
+        },
+        "bayfront hotel": {
+            "cover" : "assets/img/cebu/hotels/bayfront.jpg"
+        },
+        "diamond suites": {
+            "cover" : "assets/img/cebu/hotels/diamond.jpg"
+        },
+        "harolds hotel cebu": {
+            "cover" : "assets/img/cebu/hotels/harold.jpg"
+        },
+        "radisson blu": {
+            "cover" : "assets/img/cebu/hotels/radisson.jpg"
+        },
+        "crimson": {
+            "cover" : "assets/img/cebu/hotels/crimson.jpg"
+        }
+    }
+}

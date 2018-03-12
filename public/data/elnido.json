@@ -1,0 +1,417 @@
+{
+    "categories": 
+    {
+        "1": "island hopping",
+        "2": "free and easy"
+    },
+
+    "packages":
+    {
+        "island hopping tour a": {
+            "description": "This tour is one of the most popular island-hopping tour in El Nido. You will see the wonderful Small lagoon, Big Lagoon, Secret Lagoon, Entalula Island, and 7 commando islands, that will let you admire the beauty of the corals and to swim with the hundred species of fishes.",
+            "category": "island hopping",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Island Hopping Tour A",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to El Nido Island Hopping Tour A which will take 7hours; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/elnido/elnido-a.jpg",
+            "cover": "assets/img/elnido/elnido-a.jpg",
+            "rgb": "255,31,31",
+            "hotels" : {
+                "eco hotel el nido": {
+                    "twin" : "5088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "el nido bayview": {
+                    "twin" : "11188",
+                    "triple" : "7988",
+                    "quad" : "6388",
+                    "category" : "luxury"
+                },
+                "el nido four seasons": {
+                    "twin" : "6888",
+                    "triple" : "5188",
+                    "quad" : "4288",
+                    "category" : "standard"
+                },
+                "ipil suites": {
+                    "twin" : "6288",
+                    "triple" : "5088",
+                    "quad" : "4488",
+                    "category" : "standard"
+                },
+                "tarao lodge": {
+                    "twin" : "4788",
+                    "triple" : "4088",
+                    "quad" : "3688",
+                    "category" : "budget"
+                },
+                "lally and abet": {
+                    "twin" : "6488",
+                    "triple" : "4788",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "la casa teresa inn": {
+                    "twin" : "4388",
+                    "triple" : "3888",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "rovics tourist hotel": {
+                    "twin" : "5788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "casa kalaw": {
+                    "twin" : "8688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                }
+                
+            }
+        },
+        "island hopping tour b": {
+            "description": "This tour is full of discoveries amongst all the tours in El Nido. Let yourself be adventurous exploring the Snake Island, Cathedral cave, Cadugnon Cave and Pinagbuyutan Island.",
+            "category": "island hopping",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Island Hopping Tour B",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to El Nido Island Hopping Tour B which will take 7hours; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/elnido/elnido-b.jpg",
+            "cover": "assets/img/elnido/elnido-b.jpg",
+            "rgb": "255,133,0",
+            "hotels" : {
+                "eco hotel el nido": {
+                    "twin" : "6488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "el nido bayview": {
+                    "twin" : "12588",
+                    "triple" : "9388",
+                    "quad" : "7788",
+                    "category" : "luxury"
+                },
+                "el nido four seasons": {
+                    "twin" : "8488",
+                    "triple" : "6688",
+                    "quad" : "5888",
+                    "category" : "standard"
+                },
+                "ipil suites": {
+                    "twin" : "7588",
+                    "triple" : "6388",
+                    "quad" : "5788",
+                    "category" : "standard"
+                },
+                "tarao lodge": {
+                    "twin" : "6088",
+                    "triple" : "5388",
+                    "quad" : "4988",
+                    "category" : "budget"
+                },
+                "lally and abet": {
+                    "twin" : "7888",
+                    "triple" : "6088",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "la casa teresa inn": {
+                    "twin" : "5888",
+                    "triple" : "5488",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "rovics tourist hotel": {
+                    "twin" : "7188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "casa kalaw": {
+                    "twin" : "10088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                }
+                
+            }
+        },
+        "island hopping tour c": {
+            "description": "This Tour probably the most popular of all El Nido Tours. Get ready to see the beauty of the beaches and snorkeling spots in Hidden Beach, Secret Beach, Talisay Beach and Helicopter Island, this tour will also bring you back to memory lane with the Matinlo Shrine.",
+            "category": "island hopping",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Island Hopping Tour C",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to El Nido Island Hopping Tour C which will take 7hours; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/elnido/elnido-c.jpg",
+            "cover": "assets/img/elnido/elnido-c.jpg",
+            "rgb": "0,104,255",
+            "hotels" : {
+                "eco hotel el nido": {
+                    "twin" : "6588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "el nido bayview": {
+                    "twin" : "12688",
+                    "triple" : "9488",
+                    "quad" : "7888",
+                    "category" : "luxury"
+                },
+                "el nido four seasons": {
+                    "twin" : "8588",
+                    "triple" : "6888",
+                    "quad" : "5988",
+                    "category" : "standard"
+                },
+                "ipil suites": {
+                    "twin" : "7788",
+                    "triple" : "6488",
+                    "quad" : "5888",
+                    "category" : "standard"
+                },
+                "tarao lodge": {
+                    "twin" : "6188",
+                    "triple" : "5488",
+                    "quad" : "5188",
+                    "category" : "budget"
+                },
+                "lally and abet": {
+                    "twin" : "7988",
+                    "triple" : "6188",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "la casa teresa inn": {
+                    "twin" : "6088",
+                    "triple" : "5588",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "rovics tourist hotel": {
+                    "twin" : "7288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "casa kalaw": {
+                    "twin" : "10188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                }
+                
+            }
+        },
+        "island hopping tour d": {
+            "description": "This tour is the most relaxing one. Give yourself a time to snorkel around the Cadlao Lagoon, Paradise Beach, Private Beach and Pasandigan Beach. Admire the rich aquatic fauna and the wild nature.",
+            "category": "island hopping",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Island Hopping Tour D",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to El Nido Island Hopping Tour D which will take 7hours; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/elnido/elnido-d.jpg",
+            "cover": "assets/img/elnido/elnido-d.jpg",
+            "rgb": "46,241,87",
+            "hotels" : {
+                "eco hotel el nido": {
+                    "twin" : "6388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "el nido bayview": {
+                    "twin" : "12488",
+                    "triple" : "9288",
+                    "quad" : "7588",
+                    "category" : "luxury"
+                },
+                "el nido four seasons": {
+                    "twin" : "8188",
+                    "triple" : "6488",
+                    "quad" : "5588",
+                    "category" : "standard"
+                },
+                "ipil suites": {
+                    "twin" : "6288",
+                    "triple" : "5088",
+                    "quad" : "4488",
+                    "category" : "standard"
+                },
+                "tarao lodge": {
+                    "twin" : "4788",
+                    "triple" : "4088",
+                    "quad" : "3688",
+                    "category" : "budget"
+                },
+                "lally and abet": {
+                    "twin" : "7688",
+                    "triple" : "5988",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "la casa teresa inn": {
+                    "twin" : "5688",
+                    "triple" : "5188",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "rovics tourist hotel": {
+                    "twin" : "6988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "casa kalaw": {
+                    "twin" : "9988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                }
+                
+            }
+        },
+        "free and easy": {
+            "description": "This Package Gives you the opportunity to relax and unwind, follow your own way on how you want to explore our destination.",
+            "category": "free and easy",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Daily Breakfast",
+                "3": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Free day.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/elnido/free-and-easy.jpg",
+            "cover": "assets/img/elnido/free-and-easy.jpg",
+            "rgb": "255,31,31",
+            "hotels" : {
+                "eco hotel el nido": {
+                    "twin" : "5088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "el nido bayview": {
+                    "twin" : "11188",
+                    "triple" : "7988",
+                    "quad" : "6388",
+                    "category" : "luxury"
+                },
+                "el nido four seasons": {
+                    "twin" : "6888",
+                    "triple" : "5188",
+                    "quad" : "4288",
+                    "category" : "standard"
+                },
+                "ipil suites": {
+                    "twin" : "6288",
+                    "triple" : "5088",
+                    "quad" : "4488",
+                    "category" : "standard"
+                },
+                "tarao lodge": {
+                    "twin" : "4788",
+                    "triple" : "4088",
+                    "quad" : "3688",
+                    "category" : "budget"
+                },
+                "lally and abet": {
+                    "twin" : "6488",
+                    "triple" : "4788",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "la casa teresa inn": {
+                    "twin" : "4388",
+                    "triple" : "3888",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "rovics tourist hotel": {
+                    "twin" : "5788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "casa kalaw": {
+                    "twin" : "8688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                }
+                
+            }
+        }
+
+    },
+
+
+    "images" : {
+        "eco hotel el nido": {
+            "cover" : "assets/img/elnido/hotels/eco.jpg"
+        },
+        "el nido bayview": {
+            "cover" : "assets/img/elnido/hotels/bayview.jpg"
+        },
+        "el nido four seasons": {
+            "cover" : "assets/img/elnido/hotels/fourseasons.jpg"
+        },
+        "ipil suites": {
+            "cover" : "assets/img/elnido/hotels/ipil.jpg"
+        },
+        "tarao lodge": {
+            "cover" : "assets/img/elnido/hotels/tarao.jpg"
+        },
+        "lally and abet": {
+            "cover" : "assets/img/elnido/hotels/lally.jpg"
+        },
+        "la casa teresa inn": {
+            "cover" : "assets/img/elnido/hotels/lcs.jpg"
+        },
+        "rovics tourist hotel": {
+            "cover" : "assets/img/elnido/hotels/rth.jpg"
+        },
+        "casa kalaw": {
+            "cover" : "assets/img/elnido/hotels/casa-kalaw.jpg"
+        }
+    }
+}

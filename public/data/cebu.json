@@ -1,0 +1,769 @@
+{
+    "categories": 
+    {
+        "1": "city tour",
+        "2": "island hopping",
+        "3": "south adventures",
+        "4": "free and easy"
+    },
+
+    "packages":
+    {
+        "afternoon fun tour": {
+            "description": "Enjoy a wonderful afternoon tour to Cebu’s Historical Sites, the tour includes Magellan’s Cross, Santo Nino Basilica Church and Museum, Yap-San Diego Ancestral House, Taoist Temple,). A whole afternoon tour of Cebu City.",
+            "category": "city tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Cebu city Tour",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; In the afternoon proceed to the Tour; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/cebu/cebu-afternoon.jpg",
+            "cover": "assets/img/cebu/cebu-afternoon-2.jpg",
+            "rgb": "255,133,0",
+            "hotels" : {
+                "metro park hotel": {
+                    "twin" : "3688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "the orchard cebu": {
+                    "twin" : "4688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "sarrosa international": {
+                    "twin" : "4888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "citi park hotel": {
+                    "twin" : "5188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "crown regency residence": {
+                    "twin" : "5188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bayfront hotel": {
+                    "twin" : "5788",
+                    "triple" : "5388",
+                    "quad" : "4288",
+                    "category" : "standard"
+                },
+                "diamond suites": {
+                    "twin" : "5188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "harolds hotel cebu": {
+                    "twin" : "5588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "radisson blu": {
+                    "twin" : "10388",
+                    "triple" : "9288",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "crimson": {
+                    "twin" : "12088",
+                    "triple" : "10888",
+                    "quad" : "0",
+                    "category" : "luxury"
+                }
+            }
+        },
+        "south badian canyoneering" : {
+            "description": "A tour in Badian a trip filled with fun and excitement as you enter a world of adventure.",
+            "category": "south adventures",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Badian Canyoneering",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Badian for the Canyoneering; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out"
+            },
+            "banner": "assets/img/cebu/cebu-badian.jpg",
+            "cover": "assets/img/cebu/cebu-badian-2.jpg",
+            "rgb":"248,44,255",
+            "hotels" : {
+                "metro park hotel": {
+                    "twin" : "6188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "the orchard cebu": {
+                    "twin" : "7288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "sarrosa international": {
+                    "twin" : "7388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "citi park hotel": {
+                    "twin" : "7688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "crown regency residence": {
+                    "twin" : "7788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bayfront hotel": {
+                    "twin" : "8288",
+                    "triple" : "7888",
+                    "quad" : "6788",
+                    "category" : "standard"
+                },
+                "diamond suites": {
+                    "twin" : "7688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "harolds hotel cebu": {
+                    "twin" : "8088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "radisson blu": {
+                    "twin" : "12888",
+                    "triple" : "11888",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "crimson": {
+                    "twin" : "14588",
+                    "triple" : "13488",
+                    "quad" : "0",
+                    "category" : "luxury"
+                }
+            }
+        },
+        "south kawasan waterfalls tour" : {
+            "description": "Enjoy the majestic view of a two-level waterfalls that you can enjoy swimming and taking a picture of the very relaxing Kawasan Waterfalls, one of the most visited waterfalls in Cebu.",
+            "category": "south adventures",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Kawasan Waterfalls with bamboo rafting",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Kawasan Waterfalls Tour; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out"
+            },
+            "banner": "assets/img/cebu/cebu-kawasan.jpg",
+            "cover": "assets/img/cebu/cebu-kawasan-2.jpg",
+            "rgb":"255,133,0",
+            "hotels" : {
+                "metro park hotel": {
+                    "twin" : "4988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "the orchard cebu": {
+                    "twin" : "6088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "sarrosa international": {
+                    "twin" : "6188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "citi park hotel": {
+                    "twin" : "6488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "crown regency residence": {
+                    "twin" : "6588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bayfront hotel": {
+                    "twin" : "7088",
+                    "triple" : "6688",
+                    "quad" : "5588",
+                    "category" : "standard"
+                },
+                "diamond suites": {
+                    "twin" : "6488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "harolds hotel cebu": {
+                    "twin" : "6888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "radisson blu": {
+                    "twin" : "11688",
+                    "triple" : "10688",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "crimson": {
+                    "twin" : "13388",
+                    "triple" : "12288",
+                    "quad" : "0",
+                    "category" : "luxury"
+                }
+            }
+        },
+        "skip trip to oslob" : {
+            "description": "Get up close with the world’s largest fish the whale sharks, the gentle giants in Oslob Cebu Philippines.  Swimming with a whale shark is a unique wildlife interaction that will last forever. Whale shark watching is one of the most popular Cebu tour package. And experience Bamboo Rafting and see the beauty of Kawasan Waterfalls, A one of a kind Experience indeed.",
+            "category": "south adventures",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Skip trip to Oslob",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to the skip trip to Oslob; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out"
+            },
+            "banner": "assets/img/cebu/cebu-oslob.jpg",
+            "cover": "assets/img/cebu/cebu-oslob-2.jpg",
+            "rgb":"248,44,255",
+            "hotels" : {
+                "metro park hotel": {
+                    "twin" : "5488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "the orchard cebu": {
+                    "twin" : "6488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "sarrosa international": {
+                    "twin" : "6688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "citi park hotel": {
+                    "twin" : "6988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "crown regency residence": {
+                    "twin" : "6988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bayfront hotel": {
+                    "twin" : "7588",
+                    "triple" : "7188",
+                    "quad" : "6088",
+                    "category" : "standard"
+                },
+                "diamond suites": {
+                    "twin" : "6988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "harolds hotel cebu": {
+                    "twin" : "7388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "radisson blu": {
+                    "twin" : "12188",
+                    "triple" : "11088",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "crimson": {
+                    "twin" : "13888",
+                    "triple" : "12688",
+                    "quad" : "0",
+                    "category" : "luxury"
+                }
+            }
+        },
+        "mactan island hopping adventure" : {
+            "description": "This tour will let you see the beauty of Hilutungan Marine Sanctuary, Nalusuan and Pandanon Island, places very rich in nature and sea species.",
+            "category": "island hopping",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Mactan Island hopping Adventure",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Mactan Island Hopping Adventure; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/cebu/cebu-mactan.jpg",
+            "cover": "assets/img/cebu/cebu-mactan-2.jpg",
+            "rgb":"11,212,238",
+            "hotels" : {
+                "metro park hotel": {
+                    "twin" : "6688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "the orchard cebu": {
+                    "twin" : "7688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "sarrosa international": {
+                    "twin" : "7888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "citi park hotel": {
+                    "twin" : "8188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "crown regency residence": {
+                    "twin" : "8188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bayfront hotel": {
+                    "twin" : "8788",
+                    "triple" : "7788",
+                    "quad" : "6688",
+                    "category" : "standard"
+                },
+                "diamond suites": {
+                    "twin" : "8188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "harolds hotel cebu": {
+                    "twin" : "8588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "radisson blu": {
+                    "twin" : "13388",
+                    "triple" : "11688",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "crimson": {
+                    "twin" : "15088",
+                    "triple" : "13288",
+                    "quad" : "0",
+                    "category" : "luxury"
+                }
+            }
+        },
+        "open boat island hopping with underwater scooter" : {
+            "description": "A very unique Island-hopping experience in an open boat and Experience the underwater scooter. This Tour will surely give you a one of a kind experience in riding a scooter underwater.",
+            "category": "island hopping",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Open boat Island Hopping with Underwater scooter",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to the Open boat Island Hopping; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out"
+            },
+            "banner": "assets/img/cebu/cebu-scooter.jpg",
+            "cover": "assets/img/cebu/cebu-scooter-2.jpg",
+            "rgb":"46,241,87",
+            "hotels" : {
+                "metro park hotel": {
+                    "twin" : "9288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "the orchard cebu": {
+                    "twin" : "10388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "sarrosa international": {
+                    "twin" : "10488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "citi park hotel": {
+                    "twin" : "10888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"  
+                },
+                "crown regency residence": {
+                    "twin" : "10888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bayfront hotel": {
+                    "twin" : "11488",
+                    "triple" : "10988",
+                    "quad" : "9888",
+                    "category" : "standard"
+                },
+                "diamond suites": {
+                    "twin" : "10888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "harolds hotel cebu": {
+                    "twin" : "11188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "radisson blu": {
+                    "twin" : "15988",
+                    "triple" : "14988",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "crimson": {
+                    "twin" : "17688",
+                    "triple" : "16588",
+                    "quad" : "0",
+                    "category" : "luxury"
+                }
+            }
+        },
+        "mactan twin city tour" : {
+            "description": "A tour that will bring you to Cebu’s top historical sites and cultural landmarks. The tour includes Magellan’s Cross, Santo Nino Basilica Church and Museum, Yap-San Diego Ancestral House, Taoist Temple,). A 6-hour tour of Cebu City and Lapu-Lapu City’s also includes a visit to the historic Mactan Shrine and Alegre guitar factory.",
+            "category": "city tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Twin city tour (Cebu City and Mactan Island)",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Twin City Tour which will take 6hours; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out"
+            },
+            "banner": "assets/img/cebu/cebu-twin.jpg",
+            "cover": "assets/img/cebu/cebu-twin-2.jpg",
+            "rgb":"255,31,31",
+            "hotels" : {
+                "metro park hotel": {
+                    "twin" : "4588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "the orchard cebu": {
+                    "twin" : "5688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "sarrosa international": {
+                    "twin" : "5788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "citi park hotel": {
+                    "twin" : "6188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "crown regency residence": {
+                    "twin" : "6188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bayfront hotel": {
+                    "twin" : "6788",
+                    "triple" : "6388",
+                    "quad" : "5188",
+                    "category" : "standard"
+                },
+                "diamond suites": {
+                    "twin" : "6188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "harolds hotel cebu": {
+                    "twin" : "6488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "radisson blu": {
+                    "twin" : "11288",
+                    "triple" : "10288",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "crimson": {
+                    "twin" : "12988",
+                    "triple" : "11888",
+                    "quad" : "0",
+                    "category" : "luxury"
+                }
+            }
+        },
+        "skip trip with whale sharks" : {
+            "description": "Enjoy the Viewing and Snorkeling tour, get up close with the world’s largest fish the whale sharks, the gentle giants in Oslob Cebu Philippines. With a Sidetrip at Tumalog Falls and a running tour/picture taking at Baluarte, Cartel, Boljoon Church and Carcar shoe expo.",
+            "category": "south adventures",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Viewing and snorkelling with the Whale Sharks in oslob",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to the Viewing and snorkeling with the Whale Shark Tour; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out"
+            },
+            "banner": "assets/img/cebu/cebu-whalesharks.jpg",
+            "cover": "assets/img/cebu/cebu-whalesharks-2.jpg",
+            "rgb":"0,104,255",
+            "hotels" : {
+                "metro park hotel": {
+                    "twin" : "7588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "the orchard cebu": {
+                    "twin" : "8588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "sarrosa international": {
+                    "twin" : "8788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "citi park hotel": {
+                    "twin" : "9088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "crown regency residence": {
+                    "twin" : "9088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bayfront hotel": {
+                    "twin" : "9688",
+                    "triple" : "8788",
+                    "quad" : "6888",
+                    "category" : "standard"
+                },
+                "diamond suites": {
+                    "twin" : "9088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "harolds hotel cebu": {
+                    "twin" : "9488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "radisson blu": {
+                    "twin" : "14288",
+                    "triple" : "12788",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "crimson": {
+                    "twin" : "15988",
+                    "triple" : "14388",
+                    "quad" : "0",
+                    "category" : "luxury"
+                }
+            }
+        },
+
+
+
+        "free and easy" : {
+            "description": "This Package Gives you the opportunity to relax and unwind, follow your own way on how you want to explore the destination.",
+            "category": "free and easy",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Daily Breakfast",
+                "3": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Free day.",
+                "Day 3": "Free Time, Until Check out"
+            },
+            "banner": "assets/img/cebu/free-and-easy.jpg",
+            "cover": "assets/img/cebu/free-and-easy.jpg",
+            "rgb":"255,31,31",
+            "hotels" : {
+                "metro park hotel": {
+                    "twin" : "2688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "the orchard cebu": {
+                    "twin" : "3788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "sarrosa international": {
+                    "twin" : "3888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "citi park hotel": {
+                    "twin" : "4288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "crown regency residence": {
+                    "twin" : "4288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "bayfront hotel": {
+                    "twin" : "4888",
+                    "triple" : "4388",
+                    "quad" : "3288",
+                    "category" : "standard"
+                },
+                "diamond suites": {
+                    "twin" : "4288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "harolds hotel cebu": {
+                    "twin" : "4588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "radisson blu": {
+                    "twin" : "9388",
+                    "triple" : "8388",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "crimson": {
+                    "twin" : "11088",
+                    "triple" : "9988",
+                    "quad" : "0",
+                    "category" : "luxury"
+                }
+            }
+        }
+    },
+
+    "images" : {
+        "metro park hotel": {
+            "cover" : "assets/img/cebu/hotels/mph.jpg"
+        },
+        "the orchard cebu": {
+            "cover" : "assets/img/cebu/hotels/orchard.jpg"
+        },
+        "sarrosa international": {
+            "cover" : "assets/img/cebu/hotels/sarrosa.jpg"
+        },
+        "citi park hotel": {
+            "cover" : "assets/img/cebu/hotels/citipark.jpg"
+        },
+        "crown regency residence": {
+            "cover" : "assets/img/cebu/hotels/cr-residences.jpg"
+        },
+        "bayfront hotel": {
+            "cover" : "assets/img/cebu/hotels/bayfront.jpg"
+        },
+        "diamond suites": {
+            "cover" : "assets/img/cebu/hotels/diamond.jpg"
+        },
+        "harolds hotel cebu": {
+            "cover" : "assets/img/cebu/hotels/harold.jpg"
+        },
+        "radisson blu": {
+            "cover" : "assets/img/cebu/hotels/radisson.jpg"
+        },
+        "crimson": {
+            "cover" : "assets/img/cebu/hotels/crimson.jpg"
+        }
+    }
+
+}

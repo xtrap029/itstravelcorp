@@ -1,0 +1,1117 @@
+{
+    "categories": 
+    {
+        "1": "water activities",
+        "2": "land activities",
+        "3": "island hopping",
+        "4": "free and easy"
+        
+    },
+
+    "packages":
+    {
+        "flyfish": {
+            "description": "Hold on and try not to let go as you enjoy the flyfish activity in this package.",
+            "category": "water activities",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Flyfish Activity",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to flyfish activity; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/boracay/bora-flyfish.jpg",
+            "cover": "assets/img/boracay/bora-flyfish.jpg",
+            "rgb": " 0,104,255",
+            "hotels" : {
+                "hey jude": {
+                    "twin" : "2988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "island inn": {
+                    "twin" : "3388",
+                    "triple" : "2688",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "marzon beach resort": {
+                    "twin" : "3588",
+                    "triple" : "3388",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "blue waves beach house": {
+                    "twin" : "4088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "M.R. holidays": {
+                    "twin" : "4788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "il mare sakura": {
+                    "twin" : "4988",
+                    "triple" : "4488",
+                    "quad" : "4288",
+                    "category" : "standard"
+                },
+                "crown regency resort": {
+                    "twin" : "5188",
+                    "triple" : "5088",
+                    "quad" : "4988",
+                    "category" : "luxury"
+                },
+                "club ten": {
+                    "twin" : "5488",
+                    "triple" : "4088",
+                    "quad" : "3388",
+                    "category" : "budget"
+                },
+                "boracay ocean club": {
+                    "twin" : "5688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "hue hotels": {
+                    "twin" : "6688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "boracay tropics": {
+                    "twin" : "7788",
+                    "triple" : "5588",
+                    "quad" : "4488",
+                    "category" : "luxury"
+                },
+                "boracay mandarin": {
+                    "twin" : "7688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "boracay uptown": {
+                    "twin" : "7988",
+                    "triple" : "5688",
+                    "quad" : "4588",
+                    "category" : "luxury"
+                },
+                "estacio uno": {
+                    "twin" : "8388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "coast": {
+                    "twin" : "9188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "residencia boracay": {
+                    "twin" : "9288",
+                    "triple" : "7388",
+                    "quad" : "6488",
+                    "category" : "budget"
+                },
+                "nigi-nigi too": {
+                    "twin" : "9388",
+                    "triple" : "7888",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "boracay holiday resort": {
+                    "twin" : "9988",
+                    "triple" : "6988",
+                    "quad" : "5588",
+                    "category" : "standard"
+                }
+            }
+        },
+
+
+
+        "para sailing": {
+            "description": "Reach for the sky, while watching the sunset of Boracay, enjoy the Para sailing package.",
+            "category": "water activities",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "ParaSailing Activity",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Parasailing activity; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/boracay/bora-parasailing.jpg",
+            "cover": "assets/img/boracay/bora-parasailing.jpg",
+            "rgb": "248,44,255",
+            "hotels" : {
+                "hey jude": {
+                    "twin" : "3888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "island inn": {
+                    "twin" : "4188",
+                    "triple" : "3488",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "marzon beach resort": {
+                    "twin" : "4388",
+                    "triple" : "4288",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "blue waves beach house": {
+                    "twin" : "4888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "M.R. holidays": {
+                    "twin" : "5688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "il mare sakura": {
+                    "twin" : "5788",
+                    "triple" : "5388",
+                    "quad" : "5088",
+                    "category" : "standard"
+                },
+                "crown regency resort": {
+                    "twin" : "6088",
+                    "triple" : "5888",
+                    "quad" : "4988",
+                    "category" : "luxury"
+                },
+                "club ten": {
+                    "twin" : "6388",
+                    "triple" : "4888",
+                    "quad" : "4188",
+                    "category" : "budget"
+                },
+                "boracay ocean club": {
+                    "twin" : "6488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "hue hotels": {
+                    "twin" : "7588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "boracay tropics": {
+                    "twin" : "8588",
+                    "triple" : "6388",
+                    "quad" : "5288",
+                    "category" : "luxury"
+                },
+                "boracay mandarin": {
+                    "twin" : "8488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "boracay uptown": {
+                    "twin" : "8788",
+                    "triple" : "6588",
+                    "quad" : "5388",
+                    "category" : "luxury"
+                },
+                "estacio uno": {
+                    "twin" : "9288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "coast": {
+                    "twin" : "9988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "residencia boracay": {
+                    "twin" : "10188",
+                    "triple" : "8288",
+                    "quad" : "7288",
+                    "category" : "budget"
+                },
+                "nigi-nigi too": {
+                    "twin" : "10188",
+                    "triple" : "8688",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "boracay holiday resort": {
+                    "twin" : "10788",
+                    "triple" : "7888",
+                    "quad" : "6388",
+                    "category" : "standard"
+                }
+            }
+        },
+
+
+        "helmet diving": {
+            "description": "A one of a kind experience, getting up-close with the marine species of Boracay.",
+            "category": "water activities",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Helmet Diving Activity",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Helmet Diving activity; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/boracay/bora-helmet.jpg",
+            "cover": "assets/img/boracay/bora-helmet.jpg",
+            "rgb": "173,0,255",
+            "hotels" : {
+                "hey jude": {
+                    "twin" : "2988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "island inn": {
+                    "twin" : "3388",
+                    "triple" : "2688",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "marzon beach resort": {
+                    "twin" : "3588",
+                    "triple" : "3388",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "blue waves beach house": {
+                    "twin" : "4088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "M.R. holidays": {
+                    "twin" : "4788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "il mare sakura": {
+                    "twin" : "4988",
+                    "triple" : "4488",
+                    "quad" : "4288",
+                    "category" : "standard"
+                },
+                "crown regency resort": {
+                    "twin" : "5188",
+                    "triple" : "5088",
+                    "quad" : "4988",
+                    "category" : "luxury"
+                },
+                "club ten": {
+                    "twin" : "5488",
+                    "triple" : "4088",
+                    "quad" : "3388",
+                    "category" : "budget"
+                },
+                "boracay ocean club": {
+                    "twin" : "5688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "hue hotels": {
+                    "twin" : "6688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "boracay tropics": {
+                    "twin" : "7788",
+                    "triple" : "5588",
+                    "quad" : "4488",
+                    "category" : "luxury"
+                },
+                "boracay mandarin": {
+                    "twin" : "7688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "boracay uptown": {
+                    "twin" : "7988",
+                    "triple" : "5688",
+                    "quad" : "4588",
+                    "category" : "luxury"
+                },
+                "estacio uno": {
+                    "twin" : "8388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "coast": {
+                    "twin" : "9188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "residencia boracay": {
+                    "twin" : "9288",
+                    "triple" : "7388",
+                    "quad" : "6488",
+                    "category" : "budget"
+                },
+                "nigi-nigi too": {
+                    "twin" : "9388",
+                    "triple" : "7888",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "boracay holiday resort": {
+                    "twin" : "9988",
+                    "triple" : "6988",
+                    "quad" : "5588",
+                    "category" : "standard"
+                }
+            }
+        },
+
+        "g max reverse bungee": {
+            "description": "Feel the Air as you get toss in the G-Max Reverse Bungee",
+            "category": "land activities",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "G-Max Reverse Bungee",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to G-Max Reverse Bungee activity; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/boracay/bora-gmax.jpg",
+            "cover": "assets/img/boracay/bora-gmax.jpg",
+            "rgb": "255,31,31",
+            "hotels" : {
+                "hey jude": {
+                    "twin" : "4288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "island inn": {
+                    "twin" : "4688",
+                    "triple" : "3988",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "marzon beach resort": {
+                    "twin" : "4888",
+                    "triple" : "4688",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "blue waves beach house": {
+                    "twin" : "5388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "M.R. holidays": {
+                    "twin" : "6088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "il mare sakura": {
+                    "twin" : "6288",
+                    "triple" : "5888",
+                    "quad" : "5588",
+                    "category" : "standard"
+                },
+                "crown regency resort": {
+                    "twin" : "6588",
+                    "triple" : "6388",
+                    "quad" : "6288",
+                    "category" : "luxury"
+                },
+                "club ten": {
+                    "twin" : "6888",
+                    "triple" : "5388",
+                    "quad" : "4688",
+                    "category" : "budget"
+                },
+                "boracay ocean club": {
+                    "twin" : "6988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "hue hotels": {
+                    "twin" : "8088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "boracay tropics": {
+                    "twin" : "9088",
+                    "triple" : "6888",
+                    "quad" : "5788",
+                    "category" : "luxury"
+                },
+                "boracay mandarin": {
+                    "twin" : "8988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "boracay uptown": {
+                    "twin" : "9288",
+                    "triple" : "6988",
+                    "quad" : "5888",
+                    "category" : "luxury"
+                },
+                "estacio uno": {
+                    "twin" : "9688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "coast": {
+                    "twin" : "10488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "residencia boracay": {
+                    "twin" : "10588",
+                    "triple" : "8688",
+                    "quad" : "7788",
+                    "category" : "budget"
+                },
+                "nigi-nigi too": {
+                    "twin" : "10688",
+                    "triple" : "9188",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "boracay holiday resort": {
+                    "twin" : "11288",
+                    "triple" : "8388",
+                    "quad" : "6888",
+                    "category" : "standard"
+                }
+            }
+        },
+
+
+
+        "zipline and cable car": {
+            "description": "Take a 360 look at the scenic view of Boracay with the Zipline Activity and Cable Car Experience",
+            "category": "land activities",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Zipline and Cable Car",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Zipline and Cable Car; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/boracay/bora-zip.jpg",
+            "cover": "assets/img/boracay/bora-zip.jpg",
+            "rgb": "255,133,0",
+            "hotels" : {
+                "hey jude": {
+                    "twin" : "3088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "island inn": {
+                    "twin" : "3488",
+                    "triple" : "2788",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "marzon beach resort": {
+                    "twin" : "3688",
+                    "triple" : "3488",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "blue waves beach house": {
+                    "twin" : "4188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "M.R. holidays": {
+                    "twin" : "4888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "il mare sakura": {
+                    "twin" : "5088",
+                    "triple" : "4688",
+                    "quad" : "4388",
+                    "category" : "standard"
+                },
+                "crown regency resort": {
+                    "twin" : "5388",
+                    "triple" : "5188",
+                    "quad" : "5088",
+                    "category" : "luxury"
+                },
+                "club ten": {
+                    "twin" : "5688",
+                    "triple" : "4188",
+                    "quad" : "3488",
+                    "category" : "budget"
+                },
+                "boracay ocean club": {
+                    "twin" : "5788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "hue hotels": {
+                    "twin" : "6888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "boracay tropics": {
+                    "twin" : "7888",
+                    "triple" : "5688",
+                    "quad" : "4588",
+                    "category" : "luxury"
+                },
+                "boracay mandarin": {
+                    "twin" : "7788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "boracay uptown": {
+                    "twin" : "8088",
+                    "triple" : "5788",
+                    "quad" : "4688",
+                    "category" : "luxury"
+                },
+                "estacio uno": {
+                    "twin" : "8488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "coast": {
+                    "twin" : "9288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "residencia boracay": {
+                    "twin" : "9388",
+                    "triple" : "7488",
+                    "quad" : "6588",
+                    "category" : "budget"
+                },
+                "nigi-nigi too": {
+                    "twin" : "9488",
+                    "triple" : "7988",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "boracay holiday resort": {
+                    "twin" : "10088",
+                    "triple" : "7188",
+                    "quad" : "5688",
+                    "category" : "standard"
+                }
+            }
+        },
+
+
+
+        "boracay island land tour": {
+            "description": "When you Hear Boracay, you always think of the Beach, but there’s more to Boracay than just the Beach. See the Island’s unique wild life and rice nature. Get to reach the highest peak of Boracay in this package",
+            "category": "land activities",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Boracay Island Land Tour",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed Boracay Island Land Tour; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/boracay/bora-land.jpg",
+            "cover": "assets/img/boracay/bora-land.jpg",
+            "rgb": "255,133,0",
+            "hotels" : {
+                "hey jude": {
+                    "twin" : "3088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "island inn": {
+                    "twin" : "3488",
+                    "triple" : "2788",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "marzon beach resort": {
+                    "twin" : "3688",
+                    "triple" : "3488",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "blue waves beach house": {
+                    "twin" : "4188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "M.R. holidays": {
+                    "twin" : "4888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "il mare sakura": {
+                    "twin" : "5088",
+                    "triple" : "4688",
+                    "quad" : "4388",
+                    "category" : "standard"
+                },
+                "crown regency resort": {
+                    "twin" : "5388",
+                    "triple" : "5188",
+                    "quad" : "5088",
+                    "category" : "luxury"
+                },
+                "club ten": {
+                    "twin" : "5688",
+                    "triple" : "4188",
+                    "quad" : "3488",
+                    "category" : "budget"
+                },
+                "boracay ocean club": {
+                    "twin" : "5788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "hue hotels": {
+                    "twin" : "6888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "boracay tropics": {
+                    "twin" : "7888",
+                    "triple" : "5688",
+                    "quad" : "4588",
+                    "category" : "luxury"
+                },
+                "boracay mandarin": {
+                    "twin" : "7788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "boracay uptown": {
+                    "twin" : "8088",
+                    "triple" : "5788",
+                    "quad" : "4688",
+                    "category" : "luxury"
+                },
+                "estacio uno": {
+                    "twin" : "8488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "coast": {
+                    "twin" : "9288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "residencia boracay": {
+                    "twin" : "9388",
+                    "triple" : "7488",
+                    "quad" : "6588",
+                    "category" : "budget"
+                },
+                "nigi-nigi too": {
+                    "twin" : "9488",
+                    "triple" : "7988",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "boracay holiday resort": {
+                    "twin" : "10088",
+                    "triple" : "7188",
+                    "quad" : "5688",
+                    "category" : "standard"
+                }
+            }
+        },
+
+
+        "island hopping": {
+            "description": "Snorkel and see the beautiful corals in Crocodile Island and Coral Garden, Beach bum at Puka Beach and take Instagram worthy photos in Crystal Cove.",
+            "category": "island hopping",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Island Hopping Tour",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed Island Hopping Tour; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/boracay/bora-ih.jpg",
+            "cover": "assets/img/boracay/bora-ih.jpg",
+            "rgb": "255,31,31",
+            "hotels" : {
+                "hey jude": {
+                    "twin" : "3388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "island inn": {
+                    "twin" : "3688",
+                    "triple" : "2988",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "marzon beach resort": {
+                    "twin" : "3888",
+                    "triple" : "3788",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "blue waves beach house": {
+                    "twin" : "4488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "M.R. holidays": {
+                    "twin" : "5188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "il mare sakura": {
+                    "twin" : "5388",
+                    "triple" : "4888",
+                    "quad" : "4688",
+                    "category" : "standard"
+                },
+                "crown regency resort": {
+                    "twin" : "5588",
+                    "triple" : "5488",
+                    "quad" : "5388",
+                    "category" : "luxury"
+                },
+                "club ten": {
+                    "twin" : "5888",
+                    "triple" : "4488",
+                    "quad" : "3688",
+                    "category" : "budget"
+                },
+                "boracay ocean club": {
+                    "twin" : "5988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "hue hotels": {
+                    "twin" : "7088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "boracay tropics": {
+                    "twin" : "8088",
+                    "triple" : "5888",
+                    "quad" : "4788",
+                    "category" : "luxury"
+                },
+                "boracay mandarin": {
+                    "twin" : "8088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "boracay uptown": {
+                    "twin" : "8288",
+                    "triple" : "6088",
+                    "quad" : "4888",
+                    "category" : "luxury"
+                },
+                "estacio uno": {
+                    "twin" : "8788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "coast": {
+                    "twin" : "9488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "residencia boracay": {
+                    "twin" : "9688",
+                    "triple" : "7788",
+                    "quad" : "6788",
+                    "category" : "budget"
+                },
+                "nigi-nigi too": {
+                    "twin" : "9788",
+                    "triple" : "8188",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "boracay holiday resort": {
+                    "twin" : "10288",
+                    "triple" : "7388",
+                    "quad" : "5888",
+                    "category" : "standard"
+                }
+            }
+        },
+
+
+
+        "free and easy": {
+            "description": "This Package Gives you the opportunity to relax and unwind, follow your own way on how you want to explore our destination.",
+            "category": "free and easy",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Daily Breakfast",
+                "3": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Free day.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/boracay/free-and-easy.jpg",
+            "cover": "assets/img/boracay/free-and-easy.jpg",
+            "rgb": "255,31,31",
+            "hotels" : {
+                "hey jude": {
+                    "twin" : "2288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "island inn": {
+                    "twin" : "2688",
+                    "triple" : "1888",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "marzon beach resort": {
+                    "twin" : "2888",
+                    "triple" : "2688",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "blue waves beach house": {
+                    "twin" : "3388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "M.R. holidays": {
+                    "twin" : "4088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "il mare sakura": {
+                    "twin" : "4288",
+                    "triple" : "3788",
+                    "quad" : "3588",
+                    "category" : "standard"
+                },
+                "crown regency resort": {
+                    "twin" : "4488",
+                    "triple" : "4388",
+                    "quad" : "4288",
+                    "category" : "luxury"
+                },
+                "club ten": {
+                    "twin" : "4788",
+                    "triple" : "3388",
+                    "quad" : "2688",
+                    "category" : "budget"
+                },
+                "boracay ocean club": {
+                    "twin" : "4888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "hue hotels": {
+                    "twin" : "5988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "boracay tropics": {
+                    "twin" : "6988",
+                    "triple" : "4888",
+                    "quad" : "3788",
+                    "category" : "luxury"
+                },
+                "boracay mandarin": {
+                    "twin" : "6988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "boracay uptown": {
+                    "twin" : "7188",
+                    "triple" : "4988",
+                    "quad" : "3888",
+                    "category" : "luxury"
+                },
+                "estacio uno": {
+                    "twin" : "7688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "coast": {
+                    "twin" : "8488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "residencia boracay": {
+                    "twin" : "8588",
+                    "triple" : "6688",
+                    "quad" : "5688",
+                    "category" : "budget"
+                },
+                "nigi-nigi too": {
+                    "twin" : "8688",
+                    "triple" : "7188",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "boracay holiday resort": {
+                    "twin" : "9188",
+                    "triple" : "6288",
+                    "quad" : "4888",
+                    "category" : "standard"
+                }
+            }
+        }
+
+
+
+        
+
+    },
+
+
+    "images" : {
+        "hey jude": {
+            "cover" : "assets/img/boracay/hotels/heyjude.jpg"
+        },
+        "island inn": {
+            "cover" : "assets/img/boracay/hotels/island-inn.jpg"
+        },
+        "marzon beach resort": {
+            "cover" : "assets/img/boracay/hotels/marzon.JPEG"
+        },
+        "blue waves beach house": {
+            "cover" : "assets/img/boracay/hotels/bluewaves.jpg"
+        },
+        "M.R. holidays": {
+            "cover" : "assets/img/boracay/hotels/mr.jpg"
+        },
+        "il mare sakura": {
+            "cover" : "assets/img/boracay/hotels/ilmare.jpg"
+        },
+        "crown regency resort": {
+            "cover" : "assets/img/boracay/hotels/cr-beach-resort.jpg"
+        },
+        "club ten": {
+            "cover" : "assets/img/boracay/hotels/club10.jpg"
+        },
+        "boracay ocean club": {
+            "cover" : "assets/img/boracay/hotels/ocean-club.jpg"
+        },
+        "hue hotels": {
+            "cover" : "assets/img/boracay/hotels/hue.jpg"
+        },
+        "boracay tropics": {
+            "cover" : "assets/img/boracay/hotels/tropics.jpg"
+        },
+        "boracay mandarin": {
+            "cover" : "assets/img/boracay/hotels/mandarin.jpg"
+        },
+        "boracay uptown": {
+            "cover" : "assets/img/boracay/hotels/uptown.jpg"
+        },
+        "estacio uno": {
+            "cover" : "assets/img/boracay/hotels/estacio.jpg"
+        },
+        "coast": {
+            "cover" : "assets/img/boracay/hotels/coast.jpg"
+        },
+        "residencia boracay": {
+            "cover" : "assets/img/boracay/hotels/residencia.jpg"
+        },
+        "nigi-nigi too": {
+            "cover" : "assets/img/boracay/hotels/nigi.jpg"
+        },
+        "boracay holiday resort": {
+            "cover" : "assets/img/boracay/hotels/holiday.jpg"
+        }
+    }
+}

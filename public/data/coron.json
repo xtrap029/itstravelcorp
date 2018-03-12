@@ -1,0 +1,1130 @@
+{
+    "categories": 
+    {
+        "1": "island tour",
+        "2": "city tour",
+        "3": "free and easy"
+    },
+
+    "packages":
+    {
+        "coron island tour a": {
+            "description": "Enjoy this Island-Hopping tour package that will show you the beauty of Kayangan Lake, Sunset Beach, Green Lagoon, Quin Reef, Las Islas De coral and CYC Beach.",
+            "category": "island tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Coron Island Tour A",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Coron Island Tour A; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/coron/coron-ita.jpg",
+            "cover": "assets/img/coron/coron-ita.jpg",
+            "rgb": "0,104,255",
+            "hotels" : {
+                "asia grand view": {
+                    "twin" : "7088",
+                    "triple" : "6188",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "busuanga bay lodge": {
+                    "twin" : "15988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "cashew grove beach resort": {
+                    "twin" : "8688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron underwater": {
+                    "twin" : "7088",
+                    "triple" : "5188",
+                    "quad" : "4288",
+                    "category" : "standard"
+                },
+                "coron village": {
+                    "twin" : "3688",
+                    "triple" : "2988",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron soleil express": {
+                    "twin" : "6388",
+                    "triple" : "5388",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron soleil garden": {
+                    "twin" : "8588",
+                    "triple" : "7388",
+                    "quad" : "6688",
+                    "category" : "luxury"
+                },
+                "coron westown resort": {
+                    "twin" : "6688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "el rio y mar": {
+                    "twin" : "6988",
+                    "triple" : "6588",
+                    "quad" : "6388",
+                    "category" : "luxury"
+                },
+                "jazmine's place": {
+                    "twin" : "4288",
+                    "triple" : "3388",
+                    "quad" : "2888",
+                    "category" : "budget"
+                },
+                "the funny lion": {
+                    "twin" : "9588",
+                    "triple" : "7888",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sophia's garden": {
+                    "twin" : "5588",
+                    "triple" : "5688",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sunz en coron": {
+                    "twin" : "4188",
+                    "triple" : "3888",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "two seasons coron bayside": {
+                    "twin" : "8788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "two seasons island resorts": {
+                    "twin" : "27888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "vela terraces": {
+                    "twin" : "5488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                }
+                
+            }
+        },
+
+
+        "coron island tour b": {
+            "description": "Enjoy this Island-Hopping tour package that will show you the beauty of Barracuda Lake, Twin Lagoon, Smith Beach, Skeleton Wreck and reef.",
+            "category": "island tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Coron Island Tour B",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Coron Island Tour B; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/coron/coron-itb.jpg",
+            "cover": "assets/img/coron/coron-itb.jpg",
+            "rgb": "46,241,87",
+            "hotels" : {
+                "asia grand view": {
+                    "twin" : "7488",
+                    "triple" : "6588",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "busuanga bay lodge": {
+                    "twin" : "16388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "cashew grove beach resort": {
+                    "twin" : "9088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron underwater": {
+                    "twin" : "7488",
+                    "triple" : "5588",
+                    "quad" : "4688",
+                    "category" : "standard"
+                },
+                "coron village": {
+                    "twin" : "4088",
+                    "triple" : "3288",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron soleil express": {
+                    "twin" : "6688",
+                    "triple" : "5788",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron soleil garden": {
+                    "twin" : "8988",
+                    "triple" : "7688",
+                    "quad" : "7088",
+                    "category" : "luxury"
+                },
+                "coron westown resort": {
+                    "twin" : "7088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "el rio y mar": {
+                    "twin" : "7388",
+                    "triple" : "6988",
+                    "quad" : "6788",
+                    "category" : "luxury"
+                },
+                "jazmine's place": {
+                    "twin" : "4688",
+                    "triple" : "3688",
+                    "quad" : "3288",
+                    "category" : "budget"
+                },
+                "the funny lion": {
+                    "twin" : "9988",
+                    "triple" : "8288",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sophia's garden": {
+                    "twin" : "5988",
+                    "triple" : "6088",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sunz en coron": {
+                    "twin" : "4588",
+                    "triple" : "4288",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "two seasons coron bayside": {
+                    "twin" : "9188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "two seasons island resorts": {
+                    "twin" : "28288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "vela terraces": {
+                    "twin" : "5888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                }
+            }
+        },
+
+
+        "island escapade tour c1": {
+            "description": "Enjoy this Island-Hopping tour package that will show you the beauty of Malcapuya Island, Waling-Waling Island, Bamboo Island.",
+            "category": "island tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Island Escapade Tour C1",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Island Escapade Tour C1; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/coron/coron-c1.jpg",
+            "cover": "assets/img/coron/coron-c1.jpg",
+            "rgb": "248,44,255",
+            "hotels" : {
+                "asia grand view": {
+                    "twin" : "7488",
+                    "triple" : "6588",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "busuanga bay lodge": {
+                    "twin" : "16388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "cashew grove beach resort": {
+                    "twin" : "9088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron underwater": {
+                    "twin" : "7488",
+                    "triple" : "5588",
+                    "quad" : "4688",
+                    "category" : "standard"
+                },
+                "coron village": {
+                    "twin" : "4088",
+                    "triple" : "3288",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron soleil express": {
+                    "twin" : "6688",
+                    "triple" : "5788",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron soleil garden": {
+                    "twin" : "8988",
+                    "triple" : "7688",
+                    "quad" : "7088",
+                    "category" : "luxury"
+                },
+                "coron westown resort": {
+                    "twin" : "7088",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "el rio y mar": {
+                    "twin" : "7388",
+                    "triple" : "6988",
+                    "quad" : "6788",
+                    "category" : "luxury"
+                },
+                "jazmine's place": {
+                    "twin" : "4688",
+                    "triple" : "3688",
+                    "quad" : "3288",
+                    "category" : "budget"
+                },
+                "the funny lion": {
+                    "twin" : "9988",
+                    "triple" : "8288",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sophia's garden": {
+                    "twin" : "5988",
+                    "triple" : "6088",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sunz en coron": {
+                    "twin" : "4588",
+                    "triple" : "4288",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "two seasons coron bayside": {
+                    "twin" : "9188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "two seasons island resorts": {
+                    "twin" : "28288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "vela terraces": {
+                    "twin" : "5888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                }
+            }
+        },
+
+
+        "island escapade tour c2": {
+            "description": "Enjoy this Island-Hopping tour package that will show you the beauty of Malcapuya Island, Banana Island and Bamboo Island.",
+            "category": "island tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Island Escapade Tour C2",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Island Escapade Tour C2; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/coron/coron-c2.jpg",
+            "cover": "assets/img/coron/coron-c2.jpg",
+            "rgb": "173,0,255",
+            "hotels" : {
+                "asia grand view": {
+                    "twin" : "7788",
+                    "triple" : "6888",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "busuanga bay lodge": {
+                    "twin" : "16688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "cashew grove beach resort": {
+                    "twin" : "9388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron underwater": {
+                    "twin" : "7788",
+                    "triple" : "5888",
+                    "quad" : "4988",
+                    "category" : "standard"
+                },
+                "coron village": {
+                    "twin" : "4388",
+                    "triple" : "3688",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron soleil express": {
+                    "twin" : "7088",
+                    "triple" : "6088",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron soleil garden": {
+                    "twin" : "9288",
+                    "triple" : "8088",
+                    "quad" : "7388",
+                    "category" : "luxury"
+                },
+                "coron westown resort": {
+                    "twin" : "7388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "el rio y mar": {
+                    "twin" : "7688",
+                    "triple" : "7288",
+                    "quad" : "7088",
+                    "category" : "luxury"
+                },
+                "jazmine's place": {
+                    "twin" : "4988",
+                    "triple" : "4088",
+                    "quad" : "3588",
+                    "category" : "budget"
+                },
+                "the funny lion": {
+                    "twin" : "10288",
+                    "triple" : "8588",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sophia's garden": {
+                    "twin" : "6288",
+                    "triple" : "6388",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sunz en coron": {
+                    "twin" : "4888",
+                    "triple" : "4588",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "two seasons coron bayside": {
+                    "twin" : "9488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "two seasons island resorts": {
+                    "twin" : "28588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "vela terraces": {
+                    "twin" : "6188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                }
+            }
+        },
+
+
+        "reefs and wrecks tour d": {
+            "description": "Snorkel above the historical wrecks from World War II Ship and the best coral Reefs in this Package.",
+            "category": "island tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Reefs and Wrecks Tour D",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Reefs and Wrecks Tour D activity; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/coron/coron-reefs.jpg",
+            "cover": "assets/img/coron/coron-reefs.jpg",
+            "rgb": "255,31,31",
+            "hotels" : {
+                "asia grand view": {
+                    "twin" : "7588",
+                    "triple" : "6688",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "busuanga bay lodge": {
+                    "twin" : "16488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "cashew grove beach resort": {
+                    "twin" : "9188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron underwater": {
+                    "twin" : "7588",
+                    "triple" : "5688",
+                    "quad" : "4788",
+                    "category" : "standard"
+                },
+                "coron village": {
+                    "twin" : "4188",
+                    "triple" : "3488",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron soleil express": {
+                    "twin" : "6888",
+                    "triple" : "5888",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron soleil garden": {
+                    "twin" : "9088",
+                    "triple" : "7888",
+                    "quad" : "7188",
+                    "category" : "luxury"
+                },
+                "coron westown resort": {
+                    "twin" : "7188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "el rio y mar": {
+                    "twin" : "7488",
+                    "triple" : "7088",
+                    "quad" : "6888",
+                    "category" : "luxury"
+                },
+                "jazmine's place": {
+                    "twin" : "4788",
+                    "triple" : "3888",
+                    "quad" : "3388",
+                    "category" : "budget"
+                },
+                "the funny lion": {
+                    "twin" : "10088",
+                    "triple" : "8388",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sophia's garden": {
+                    "twin" : "6188",
+                    "triple" : "6088",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sunz en coron": {
+                    "twin" : "4688",
+                    "triple" : "4388",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "two seasons coron bayside": {
+                    "twin" : "9288",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "two seasons island resorts": {
+                    "twin" : "28388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "vela terraces": {
+                    "twin" : "5988",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                }
+            }
+        },
+
+
+        "coron island ultimate tour": {
+            "description": "Enjoy this Ultimate Island Hopping tour package that will show you the beauty of Kayangan Lake, CYC Beach, Smith Beach, Coral Garden, Siete Pecados, Skeleton Wreck and Twin Lagoon.",
+            "category": "island tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Coron Island Ultimate Tour ",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Coron Island Ultimate Tour; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/coron/coron-ultimate.jpg",
+            "cover": "assets/img/coron/coron-ultimate.jpg",
+            "rgb": "255,133,0",
+            "hotels" : {
+                "asia grand view": {
+                    "twin" : "7788",
+                    "triple" : "6888",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "busuanga bay lodge": {
+                    "twin" : "16688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "cashew grove beach resort": {
+                    "twin" : "9388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron underwater": {
+                    "twin" : "7788",
+                    "triple" : "5888",
+                    "quad" : "4988",
+                    "category" : "standard"
+                },
+                "coron village": {
+                    "twin" : "4388",
+                    "triple" : "3688",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron soleil express": {
+                    "twin" : "7088",
+                    "triple" : "6088",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron soleil garden": {
+                    "twin" : "9288",
+                    "triple" : "8088",
+                    "quad" : "7388",
+                    "category" : "luxury"
+                },
+                "coron westown resort": {
+                    "twin" : "7388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "el rio y mar": {
+                    "twin" : "7688",
+                    "triple" : "7288",
+                    "quad" : "7088",
+                    "category" : "luxury"
+                },
+                "jazmine's place": {
+                    "twin" : "4988",
+                    "triple" : "4088",
+                    "quad" : "3588",
+                    "category" : "budget"
+                },
+                "the funny lion": {
+                    "twin" : "10288",
+                    "triple" : "8588",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sophia's garden": {
+                    "twin" : "6388",
+                    "triple" : "6288",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sunz en coron": {
+                    "twin" : "4888",
+                    "triple" : "4588",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "two seasons coron bayside": {
+                    "twin" : "9488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "two seasons island resorts": {
+                    "twin" : "28588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "vela terraces": {
+                    "twin" : "6188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                }
+            }
+        },
+
+
+        "town tour": {
+            "description": "Enjoy this town tour in Lualhati Park, San Agustin Church and hike up Mt. Tapyas and watch the beautiful sunset then relax at the warm waters of Maquinit Hot Spring. ",
+            "category": "city tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Town Tour",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Proceed to Town Tour activity; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/coron/coron-town.jpg",
+            "cover": "assets/img/coron/coron-town.jpg",
+            "rgb": "255,31,31",
+            "hotels" : {
+                "asia grand view": {
+                    "twin" : "6788",
+                    "triple" : "5888",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "busuanga bay lodge": {
+                    "twin" : "15688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "cashew grove beach resort": {
+                    "twin" : "8388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron underwater": {
+                    "twin" : "6788",
+                    "triple" : "4888",
+                    "quad" : "3988",
+                    "category" : "standard"
+                },
+                "coron village": {
+                    "twin" : "3388",
+                    "triple" : "2688",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron soleil express": {
+                    "twin" : "6088",
+                    "triple" : "5088",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron soleil garden": {
+                    "twin" : "8288",
+                    "triple" : "7088",
+                    "quad" : "6388",
+                    "category" : "luxury"
+                },
+                "coron westown resort": {
+                    "twin" : "6388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "el rio y mar": {
+                    "twin" : "6688",
+                    "triple" : "6288",
+                    "quad" : "6088",
+                    "category" : "luxury"
+                },
+                "jazmine's place": {
+                    "twin" : "3988",
+                    "triple" : "3088",
+                    "quad" : "2588",
+                    "category" : "budget"
+                },
+                "the funny lion": {
+                    "twin" : "9288",
+                    "triple" : "7588",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sophia's garden": {
+                    "twin" : "5388",
+                    "triple" : "5288",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sunz en coron": {
+                    "twin" : "3888",
+                    "triple" : "3588",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "two seasons coron bayside": {
+                    "twin" : "8488",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "two seasons island resorts": {
+                    "twin" : "27588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "vela terraces": {
+                    "twin" : "5188",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                }
+            }
+        },
+
+
+        "calauit safari tour": {
+            "description": "Get close with nature as you enjoy the Caluit Safari tour with Ocam-ocam and Pamilacan Island Experience then explore the Busuanga Town.",
+            "category": "city tour",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Caluit Safari Tour",
+                "3": "Daily Breakfast",
+                "4": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; In the afternoon proceed to the Tour; Return to the Hotel.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/coron/coron-calauit.jpg",
+            "cover": "assets/img/coron/coron-calauit.jpg",
+            "rgb": "255,133,0",
+            "hotels" : {
+                "asia grand view": {
+                    "twin" : "9088",
+                    "triple" : "8188",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "busuanga bay lodge": {
+                    "twin" : "17888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "cashew grove beach resort": {
+                    "twin" : "10588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron underwater": {
+                    "twin" : "9088",
+                    "triple" : "7188",
+                    "quad" : "6188",
+                    "category" : "standard"
+                },
+                "coron village": {
+                    "twin" : "5688",
+                    "triple" : "4888",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron soleil express": {
+                    "twin" : "8288",
+                    "triple" : "7388",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron soleil garden": {
+                    "twin" : "10588",
+                    "triple" : "9288",
+                    "quad" : "8688",
+                    "category" : "luxury"
+                },
+                "coron westown resort": {
+                    "twin" : "8688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "el rio y mar": {
+                    "twin" : "8888",
+                    "triple" : "8488",
+                    "quad" : "8288",
+                    "category" : "luxury"
+                },
+                "jazmine's place": {
+                    "twin" : "6188",
+                    "triple" : "5288",
+                    "quad" : "4788",
+                    "category" : "budget"
+                },
+                "the funny lion": {
+                    "twin" : "11588",
+                    "triple" : "9788",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sophia's garden": {
+                    "twin" : "7588",
+                    "triple" : "7688",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sunz en coron": {
+                    "twin" : "6088",
+                    "triple" : "5888",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "two seasons coron bayside": {
+                    "twin" : "10688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "two seasons island resorts": {
+                    "twin" : "29788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "vela terraces": {
+                    "twin" : "7388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                }
+            }
+        },
+
+
+        "free and easy": {
+            "description": "This Package Gives you the opportunity to relax and unwind, follow your own way on how you want to explore the destination.",
+            "category": "free and easy",
+            "inclusions": {
+                "1": "3days/2nights Standard Room Accommodation",
+                "2": "Daily Breakfast",
+                "3": "Roundtrip Land transfer (Airport – Hotel – Airport)"
+            },
+            "itinerary": {
+                "Day 1": "Arrival, meet-up and transfer from airport to hotel for check-in. Free time for the rest of day.",
+                "Day 2": "Breakfast at the Hotel; Free day.",
+                "Day 3": "Free Time, Until Check out."
+            },
+            "banner": "assets/img/coron/free-and-easy.jpg",
+            "cover": "assets/img/coron/free-and-easy.jpg",
+            "rgb": "255,31,31",
+            "hotels" : {
+                "asia grand view": {
+                    "twin" : "6088",
+                    "triple" : "5188",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "busuanga bay lodge": {
+                    "twin" : "14888",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "cashew grove beach resort": {
+                    "twin" : "7588",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron underwater": {
+                    "twin" : "6088",
+                    "triple" : "4188",
+                    "quad" : "3188",
+                    "category" : "standard"
+                },
+                "coron village": {
+                    "twin" : "2688",
+                    "triple" : "1888",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron soleil express": {
+                    "twin" : "5288",
+                    "triple" : "4388",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "coron soleil garden": {
+                    "twin" : "7588",
+                    "triple" : "6288",
+                    "quad" : "5688",
+                    "category" : "luxury"
+                },
+                "coron westown resort": {
+                    "twin" : "5688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "el rio y mar": {
+                    "twin" : "5888",
+                    "triple" : "5488",
+                    "quad" : "5288",
+                    "category" : "luxury"
+                },
+                "jazmine's place": {
+                    "twin" : "3188",
+                    "triple" : "2288",
+                    "quad" : "1788",
+                    "category" : "budget"
+                },
+                "the funny lion": {
+                    "twin" : "8588",
+                    "triple" : "6788",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sophia's garden": {
+                    "twin" : "4588",
+                    "triple" : "4688",
+                    "quad" : "0",
+                    "category" : "standard"
+                },
+                "sunz en coron": {
+                    "twin" : "3088",
+                    "triple" : "2888",
+                    "quad" : "0",
+                    "category" : "budget"
+                },
+                "two seasons coron bayside": {
+                    "twin" : "7688",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "two seasons island resorts": {
+                    "twin" : "26788",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "luxury"
+                },
+                "vela terraces": {
+                    "twin" : "4388",
+                    "triple" : "0",
+                    "quad" : "0",
+                    "category" : "budget"
+                }
+            }
+        }
+
+
+        
+
+    },
+
+
+
+
+    "images" : {
+        "asia grand view": {
+            "cover" : "assets/img/coron/hotels/asia-grand.jpg"
+        },
+        "busuanga bay lodge": {
+            "cover" : "assets/img/coron/hotels/baylodge.jpg"
+        },
+        "cashew grove beach resort": {
+            "cover" : "assets/img/coron/hotels/cashew.jpg"
+        },
+        "coron underwater": {
+            "cover" : "assets/img/coron/hotels/underwater.jpg"
+        },
+        "coron village": {
+            "cover" : "assets/img/coron/hotels/cvl.jpg"
+        },
+        "coron soleil express": {
+            "cover" : "assets/img/coron/hotels/cs-express.jpg"
+        },
+        "coron soleil garden": {
+            "cover" : "assets/img/coron/hotels/cs-garden.jpg"
+        },
+        "coron westown resort": {
+            "cover" : "assets/img/coron/hotels/westown.jpg"
+        },
+        "el rio y mar": {
+            "cover" : "assets/img/coron/hotels/elrio.jpg"
+        },
+        "jazmine's place": {
+            "cover" : "assets/img/coron/hotels/jazmine.jpg"
+        },
+        "the funny lion": {
+            "cover" : "assets/img/coron/hotels/funnylion.jpg"
+        },
+        "sophia's garden": {
+            "cover" : "assets/img/coron/hotels/sophia.JPG"
+        },
+        "sunz en coron": {
+            "cover" : "assets/img/coron/hotels/sunz.jpg"
+        },
+        "two seasons coron bayside": {
+            "cover" : "assets/img/coron/hotels/ts-bayside.jpg"
+        },
+        "two seasons island resorts": {
+            "cover" : "assets/img/coron/hotels/ts-island.jpg"
+        },
+        "vela terraces": {
+            "cover" : "assets/img/coron/hotels/vela.jpg"
+        }
+    }
+}
