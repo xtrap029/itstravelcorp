@@ -1,5 +1,5 @@
 <?php
-
+ 
 /**
  * Configuration for DEVELOPMENT environment
  * To create another configuration set just copy this file to config.production.php etc. You get the idea :)
