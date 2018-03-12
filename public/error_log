@@ -1,0 +1,102 @@
+[20-Dec-2017 08:28:28 UTC] PHP Notice:  Undefined property: View::$packagehotel in /home/rbjorn2017/public_html/beta/application/view/package/reservations.php on line 253
+[20-Dec-2017 08:33:23 UTC] PHP Notice:  Undefined variable: haveFlight in /home/rbjorn2017/public_html/beta/application/controller/ReservationController.php on line 42
+[20-Dec-2017 08:33:23 UTC] PHP Notice:  Undefined variable: haveFlight in /home/rbjorn2017/public_html/beta/application/controller/ReservationController.php on line 45
+[20-Dec-2017 08:33:38 UTC] PHP Notice:  Undefined property: View::$packagehotel in /home/rbjorn2017/public_html/beta/application/view/package/reservations.php on line 253
+[20-Dec-2017 08:35:48 UTC] PHP Notice:  Undefined property: View::$packagehotel in /home/rbjorn2017/public_html/beta/application/view/package/reservations.php on line 253
+[20-Dec-2017 08:37:05 UTC] PHP Notice:  Undefined variable: lastname in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 161
+[20-Dec-2017 08:37:05 UTC] PHP Notice:  Undefined variable: firstname in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 161
+[20-Dec-2017 08:37:05 UTC] PHP Notice:  Undefined variable: email in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 162
+[20-Dec-2017 08:37:05 UTC] PHP Notice:  Undefined variable: contact in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 163
+[20-Dec-2017 08:37:05 UTC] PHP Notice:  Undefined variable: alternate in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 164
+[20-Dec-2017 08:37:05 UTC] PHP Notice:  Undefined variable: packagelocation in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 165
+[20-Dec-2017 08:37:05 UTC] PHP Notice:  Undefined variable: packagename in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 166
+[20-Dec-2017 08:37:05 UTC] PHP Notice:  Undefined variable: packagehotel in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 167
+[20-Dec-2017 08:37:05 UTC] PHP Notice:  Undefined variable: packagestart in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 168
+[20-Dec-2017 08:37:05 UTC] PHP Notice:  Undefined variable: packageend in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 169
+[20-Dec-2017 08:37:05 UTC] PHP Notice:  Undefined variable: packageadult in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 170
+[20-Dec-2017 08:37:05 UTC] PHP Notice:  Undefined variable: packagechild in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 171
+[20-Dec-2017 08:37:05 UTC] PHP Notice:  Undefined variable: packagerate in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 172
+[20-Dec-2017 08:37:05 UTC] PHP Notice:  Undefined variable: packagetotal in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 173
+[20-Dec-2017 08:37:05 UTC] PHP Notice:  Undefined variable: others in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 174
+[20-Dec-2017 08:37:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 193
+[20-Dec-2017 08:37:05 UTC] PHP Notice:  Undefined variable: lastname in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 204
+[20-Dec-2017 08:37:05 UTC] PHP Notice:  Undefined variable: firstname in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 204
+[20-Dec-2017 08:37:05 UTC] PHP Notice:  Undefined variable: email in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 244
+[20-Dec-2017 08:37:05 UTC] PHP Notice:  Undefined variable: packagelocation in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 250
+[20-Dec-2017 08:39:04 UTC] PHP Notice:  Undefined property: View::$packagehotel in /home/rbjorn2017/public_html/beta/application/view/package/reservations.php on line 253
+[20-Dec-2017 08:40:26 UTC] PHP Notice:  Undefined variable: lastname in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 161
+[20-Dec-2017 08:40:26 UTC] PHP Notice:  Undefined variable: firstname in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 161
+[20-Dec-2017 08:40:26 UTC] PHP Notice:  Undefined variable: email in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 162
+[20-Dec-2017 08:40:26 UTC] PHP Notice:  Undefined variable: contact in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 163
+[20-Dec-2017 08:40:26 UTC] PHP Notice:  Undefined variable: alternate in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 164
+[20-Dec-2017 08:40:26 UTC] PHP Notice:  Undefined variable: packagelocation in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 165
+[20-Dec-2017 08:40:26 UTC] PHP Notice:  Undefined variable: packagename in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 166
+[20-Dec-2017 08:40:26 UTC] PHP Notice:  Undefined variable: packagehotel in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 167
+[20-Dec-2017 08:40:26 UTC] PHP Notice:  Undefined variable: packagestart in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 168
+[20-Dec-2017 08:40:26 UTC] PHP Notice:  Undefined variable: packageend in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 169
+[20-Dec-2017 08:40:26 UTC] PHP Notice:  Undefined variable: packageadult in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 170
+[20-Dec-2017 08:40:26 UTC] PHP Notice:  Undefined variable: packagechild in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 171
+[20-Dec-2017 08:40:26 UTC] PHP Notice:  Undefined variable: packagerate in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 172
+[20-Dec-2017 08:40:26 UTC] PHP Notice:  Undefined variable: packagetotal in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 173
+[20-Dec-2017 08:40:26 UTC] PHP Notice:  Undefined variable: others in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 174
+[20-Dec-2017 08:40:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 193
+[20-Dec-2017 08:40:26 UTC] PHP Notice:  Undefined variable: lastname in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 204
+[20-Dec-2017 08:40:26 UTC] PHP Notice:  Undefined variable: firstname in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 204
+[20-Dec-2017 08:40:26 UTC] PHP Notice:  Undefined variable: email in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 244
+[20-Dec-2017 08:40:26 UTC] PHP Notice:  Undefined variable: packagelocation in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 250
+[20-Dec-2017 08:42:25 UTC] PHP Notice:  Undefined property: View::$packagehotel in /home/rbjorn2017/public_html/beta/application/view/package/reservations.php on line 253
+[20-Dec-2017 08:43:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 211
+[20-Dec-2017 08:45:51 UTC] PHP Notice:  Undefined property: View::$packagehotel in /home/rbjorn2017/public_html/beta/application/view/package/reservations.php on line 253
+[20-Dec-2017 08:46:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 211
+[20-Dec-2017 08:48:51 UTC] PHP Notice:  Undefined property: View::$packagehotel in /home/rbjorn2017/public_html/beta/application/view/package/reservations.php on line 253
+[20-Dec-2017 08:57:21 UTC] PHP Notice:  Undefined property: View::$packagehotel in /home/rbjorn2017/public_html/beta/application/view/package/reservations.php on line 253
+[20-Dec-2017 09:00:57 UTC] PHP Notice:  Undefined property: View::$packagehotel in /home/rbjorn2017/public_html/beta/application/view/package/reservations.php on line 253
+[20-Dec-2017 09:13:40 UTC] PHP Notice:  Undefined property: View::$packagehotel in /home/rbjorn2017/public_html/beta/application/view/package/reservations.php on line 253
+[20-Dec-2017 09:23:06 UTC] PHP Notice:  Undefined property: View::$packagehotel in /home/rbjorn2017/public_html/beta/application/view/package/reservations.php on line 253
+[20-Dec-2017 10:03:10 UTC] PHP Notice:  Undefined property: View::$packagehotel in /home/rbjorn2017/public_html/beta/application/view/package/reservations.php on line 253
+[20-Dec-2017 10:10:37 UTC] PHP Notice:  Undefined property: View::$packagehotel in /home/rbjorn2017/public_html/beta/application/view/package/reservations.php on line 253
+[20-Dec-2017 10:22:07 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 286
+[20-Dec-2017 10:22:25 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 286
+[20-Dec-2017 10:23:07 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 286
+[20-Dec-2017 10:23:17 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 286
+[20-Dec-2017 10:24:25 UTC] PHP Notice:  Undefined index: afternoo fun tour in /home/rbjorn2017/public_html/beta/application/model/PackageModel.php on line 31
+[20-Dec-2017 10:24:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/rbjorn2017/public_html/beta/application/view/package/details.php on line 69
+[20-Dec-2017 10:24:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/rbjorn2017/public_html/beta/application/view/package/details.php on line 88
+[20-Dec-2017 10:24:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/rbjorn2017/public_html/beta/application/view/package/details.php on line 185
+[20-Dec-2017 10:25:38 UTC] PHP Notice:  Undefined property: View::$packagehotel in /home/rbjorn2017/public_html/beta/application/view/package/reservations.php on line 253
+[20-Dec-2017 10:27:11 UTC] PHP Notice:  Undefined variable: lastname in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 87
+[20-Dec-2017 10:27:11 UTC] PHP Notice:  Undefined variable: firstname in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 87
+[20-Dec-2017 10:28:43 UTC] PHP Notice:  Undefined property: View::$packagehotel in /home/rbjorn2017/public_html/beta/application/view/package/reservations.php on line 253
+[20-Dec-2017 10:40:25 UTC] PHP Notice:  Undefined property: View::$packagehotel in /home/rbjorn2017/public_html/beta/application/view/package/reservations.php on line 253
+[20-Dec-2017 10:42:13 UTC] PHP Notice:  Undefined property: View::$packagehotel in /home/rbjorn2017/public_html/beta/application/view/package/reservations.php on line 253
+[20-Dec-2017 10:44:23 UTC] PHP Notice:  Undefined property: View::$packagehotel in /home/rbjorn2017/public_html/beta/application/view/package/reservations.php on line 253
+[20-Dec-2017 10:44:36 UTC] PHP Notice:  Undefined property: View::$packagehotel in /home/rbjorn2017/public_html/beta/application/view/package/reservations.php on line 253
+[20-Dec-2017 10:45:33 UTC] PHP Notice:  Undefined property: View::$packagehotel in /home/rbjorn2017/public_html/beta/application/view/package/reservations.php on line 253
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
+[20-Dec-2017 11:09:25 UTC] PHP Notice:  Undefined offset: 5 in /home/rbjorn2017/public_html/beta/application/model/HelperModel.php on line 213
