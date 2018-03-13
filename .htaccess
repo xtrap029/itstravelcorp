@@ -3,8 +3,6 @@
 RewriteEngine on
 RewriteRule ^(.*) public/$1 [L]
 
-addhandler x-httpd-php53-cgi .php
-
 # Everything from is for browser caching and is totally optional
 
 # Deflate Compression by FileType
