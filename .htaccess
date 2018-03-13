@@ -3,7 +3,7 @@
 RewriteEngine on
 RewriteRule ^(.*) public/$1 [L]
 
-AddHandler application/x-httpd-php52 .php
+AddHandler application/x-httpd-php5 .php
 
 # Everything from is for browser caching and is totally optional
 
