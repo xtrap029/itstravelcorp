@@ -43,9 +43,6 @@
         object-fit: cover;
         height: -webkit-fill-available;
     }
-    .destination .mask{
-        border: 50px solid rgba(47, 47, 47, 0.2);
-    }
 </style>
 
 <!-- DOMESTIC DESTINATION -->
@@ -65,7 +62,14 @@
             <a href="<?php echo Config::get('URL'); ?>packages/coron">
             <div class="col-xs-12 col-md-5 no-gutter">
                 <div class="destination pointer">
-                    <!-- <span class="title">CORON</span> -->
+                    <span class="title text-center">
+                        <font color="fff200">CORON</font>
+                        <br>
+                        <h6>for as low as</h6>
+                        <font color="fff200">P1,788</font>
+                        <br>
+                        <h6>per person</h6>
+                    </span>
                     
                     <img src="assets/img/Coron.jpg" class="img-responsive pointer">
                     
@@ -77,7 +81,14 @@
             <a href="<?php echo Config::get('URL'); ?>packages/cebu">
             <div class="col-xs-12 col-md-3 no-gutter">
                 <div class="destination pointer">
-                    <!-- <span class="title">CEBU</span> -->
+                    <span class="title text-center">
+                        <font color="fff200">CEBU</font>
+                        <br>
+                        <h6>for as low as</h6>
+                        <font color="fff200">P2,688</font>
+                        <br>
+                        <h6>per person</h6>
+                    </span>
                     
                     <img src="assets/img/Cebu.jpg" class="img-responsive pointer">
                     
@@ -89,7 +100,14 @@
             <a href="<?php echo Config::get('URL'); ?>packages/bohol">
             <div class="col-xs-12 col-md-4 no-gutter">
                 <div class="destination pointer">
-                    <!-- <span class="title">BOHOL</span> -->
+                    <span class="title text-center">
+                        <font color="fff200">BOHOL</font>
+                        <br>
+                        <h6>for as low as</h6>
+                        <font color="fff200">P1,888</font>
+                        <br>
+                        <h6>per person</h6>
+                    </span>
                     <img src="assets/img/Bohol.jpg" class="img-responsive pointer">
                     
                     <div class="mask"></div>
@@ -106,7 +124,14 @@
             <a href="<?php echo Config::get('URL'); ?>packages/boracay">
             <div class="col-xs-12 col-md-4 no-gutter">
                 <div class="destination pointer">
-                    <!-- <span class="title">BORACAY</span> -->
+                    <span class="title text-center">
+                        <font color="fff200">BORACAY</font>
+                        <br>
+                        <h6>for as low as</h6>
+                        <font color="fff200">P2,688</font>
+                        <br>
+                        <h6>per person</h6>
+                    </span>
                     
                     <img src="assets/img/Boracay.jpg" class="img-responsive pointer">
                     
@@ -118,7 +143,14 @@
             <a href="<?php echo Config::get('URL'); ?>packages/elnido">
             <div class="col-xs-12 col-md-3 no-gutter">
                 <div class="destination pointer">
-                    <!-- <span class="title">El NIDO</span> -->
+                    <span class="title text-center">
+                        <font color="fff200">EL NIDO</font>
+                        <br>
+                        <h6>for as low as</h6>
+                        <font color="fff200">P3,888</font>
+                        <br>
+                        <h6>per person</h6>
+                    </span>
                     
                     <img src="assets/img/elnido.jpg" class="img-responsive pointer">
                     
@@ -130,7 +162,14 @@
             <a href="<?php echo Config::get('URL'); ?>packages/puertoprincesa">
             <div class="col-xs-12 col-md-5 no-gutter">
                 <div class="destination pointer">
-                    <!-- <span class="title text-center">PUERTO PRINCESA</span> -->
+                    <span class="title text-center">
+                        <font color="fff200">PUERTO PRINCESA</font>
+                        <br>
+                        <h6>for as low as</h6>
+                        <font color="fff200">P2,688</font>
+                        <br>
+                        <h6>per person</h6>
+                    </span>
                     
                     <img src="assets/img/Puerto.jpg" class="img-responsive pointer">
                     
