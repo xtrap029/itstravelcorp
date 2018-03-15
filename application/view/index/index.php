@@ -43,6 +43,9 @@
         object-fit: cover;
         height: -webkit-fill-available;
     }
+    span.title.text-center > font, span.title.text-center > h6{
+        display: block;
+    }
 </style>
 
 <!-- DOMESTIC DESTINATION -->
@@ -64,10 +67,8 @@
                 <div class="destination pointer">
                     <span class="title text-center">
                         <font color="fff200">CORON</font>
-                        <br>
                         <h6>for as low as</h6>
                         <font color="fff200">P1,788</font>
-                        <br>
                         <h6>per person</h6>
                     </span>
                     
@@ -83,10 +84,8 @@
                 <div class="destination pointer">
                     <span class="title text-center">
                         <font color="fff200">CEBU</font>
-                        <br>
                         <h6>for as low as</h6>
                         <font color="fff200">P2,688</font>
-                        <br>
                         <h6>per person</h6>
                     </span>
                     
@@ -102,10 +101,8 @@
                 <div class="destination pointer">
                     <span class="title text-center">
                         <font color="fff200">BOHOL</font>
-                        <br>
                         <h6>for as low as</h6>
                         <font color="fff200">P1,888</font>
-                        <br>
                         <h6>per person</h6>
                     </span>
                     <img src="assets/img/Bohol.jpg" class="img-responsive pointer">
@@ -126,10 +123,8 @@
                 <div class="destination pointer">
                     <span class="title text-center">
                         <font color="fff200">BORACAY</font>
-                        <br>
                         <h6>for as low as</h6>
                         <font color="fff200">P2,688</font>
-                        <br>
                         <h6>per person</h6>
                     </span>
                     
@@ -145,10 +140,8 @@
                 <div class="destination pointer">
                     <span class="title text-center">
                         <font color="fff200">EL NIDO</font>
-                        <br>
                         <h6>for as low as</h6>
                         <font color="fff200">P3,888</font>
-                        <br>
                         <h6>per person</h6>
                     </span>
                     
@@ -164,10 +157,8 @@
                 <div class="destination pointer">
                     <span class="title text-center">
                         <font color="fff200">PUERTO PRINCESA</font>
-                        <br>
                         <h6>for as low as</h6>
                         <font color="fff200">P2,688</font>
-                        <br>
                         <h6>per person</h6>
                     </span>
                     
