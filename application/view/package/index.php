@@ -1,4 +1,4 @@
-<div id="banners" class="section-container" style="background: url(<?php echo Config::get('URL'); ?>assets/img/banners/<?= $this->location; ?>.jpg) no-repeat center; height: 250px; background-size: 100%;">
+<div id="banners" class="section-container" style="background: url(<?php echo Config::get('URL'); ?>assets/img/banners/<?= $this->location; ?>.jpg) no-repeat center; background-size: 100%;">
     <div class="container">
         <div class="row">
             <h1 class="packages-header"> List of Packages </h1>
