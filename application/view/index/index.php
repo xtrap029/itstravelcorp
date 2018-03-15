@@ -37,7 +37,16 @@
 
 
 
-
+<style type="text/css">
+    .destination img{
+        width: 100%;
+        object-fit: cover;
+        height: -webkit-fill-available;
+    }
+    .destination .mask{
+        border: 50px solid rgba(47, 47, 47, 0.2);
+    }
+</style>
 
 <!-- DOMESTIC DESTINATION -->
 <div id="domestic" class="section-container bg-dark">
@@ -56,7 +65,7 @@
             <a href="<?php echo Config::get('URL'); ?>packages/coron">
             <div class="col-xs-12 col-md-5 no-gutter">
                 <div class="destination pointer">
-                    <span class="title">CORON</span>
+                    <!-- <span class="title">CORON</span> -->
                     
                     <img src="assets/img/Coron.jpg" class="img-responsive pointer">
                     
@@ -68,7 +77,7 @@
             <a href="<?php echo Config::get('URL'); ?>packages/cebu">
             <div class="col-xs-12 col-md-3 no-gutter">
                 <div class="destination pointer">
-                    <span class="title">CEBU</span>
+                    <!-- <span class="title">CEBU</span> -->
                     
                     <img src="assets/img/Cebu.jpg" class="img-responsive pointer">
                     
@@ -80,7 +89,7 @@
             <a href="<?php echo Config::get('URL'); ?>packages/bohol">
             <div class="col-xs-12 col-md-4 no-gutter">
                 <div class="destination pointer">
-                    <span class="title">BOHOL</span>
+                    <!-- <span class="title">BOHOL</span> -->
                     <img src="assets/img/Bohol.jpg" class="img-responsive pointer">
                     
                     <div class="mask"></div>
@@ -97,7 +106,7 @@
             <a href="<?php echo Config::get('URL'); ?>packages/boracay">
             <div class="col-xs-12 col-md-4 no-gutter">
                 <div class="destination pointer">
-                    <span class="title">BORACAY</span>
+                    <!-- <span class="title">BORACAY</span> -->
                     
                     <img src="assets/img/Boracay.jpg" class="img-responsive pointer">
                     
@@ -109,7 +118,7 @@
             <a href="<?php echo Config::get('URL'); ?>packages/elnido">
             <div class="col-xs-12 col-md-3 no-gutter">
                 <div class="destination pointer">
-                    <span class="title">El NIDO</span>
+                    <!-- <span class="title">El NIDO</span> -->
                     
                     <img src="assets/img/elnido.jpg" class="img-responsive pointer">
                     
@@ -121,7 +130,7 @@
             <a href="<?php echo Config::get('URL'); ?>packages/puertoprincesa">
             <div class="col-xs-12 col-md-5 no-gutter">
                 <div class="destination pointer">
-                    <span class="title text-center">PUERTO PRINCESA</span>
+                    <!-- <span class="title text-center">PUERTO PRINCESA</span> -->
                     
                     <img src="assets/img/Puerto.jpg" class="img-responsive pointer">
                     
