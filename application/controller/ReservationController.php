@@ -20,9 +20,10 @@ class ReservationController extends Controller
         $this->View->render('package/reservations', array('packagename' => $package, 'checkin' => $checkIn, 'checkout' => $checkOut, 'adult' => $adult, 'child' => $child, 'hotel' => $hotel, 'rate' => $rate, 'location' => $location));
     }
 
-    public function newsletter()
+    public function newsletter($location)
     {
-        $this->View->render('package/reservations-newsletter');
+        $hotels = NewsletterModel::GetHotel($location);
+        $this->View->render('package/reservations-newsletter', array('location' => $location, 'hotels' => $hotels[0], 'rates' => $hotels[1]));
     }
 
     public function success()
@@ -129,6 +130,23 @@ class ReservationController extends Controller
         //     $c++;
         // }
         
+    }
+
+    public function processnewsletter()
+    {
+        $haveFlight = Request::post('flight-val');
+        $requestFlight = Request::post('request-flight-val');
+
+        //send with flight details (yes no)
+        if($haveFlight == "yes" && $requestFlight == "no"){
+            if(HelperModel::SendMailWithFlight()){
+                Redirect::to('reservation/success');    
+            }
+        }else{
+            if(HelperModel::SendMailPlain()){
+                Redirect::to('reservation/success');
+            }
+        }
     }
 
 }

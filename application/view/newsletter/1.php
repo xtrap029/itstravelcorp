@@ -21,7 +21,6 @@
 		.blocks{
 			width: 285px;
 			height: 360px;
-			background-color: red;
 			display: inline-block;
 			margin-bottom: 12px;
 			position: relative;
