@@ -281,7 +281,7 @@
                         <h5>Child/s: </h5>
                         <select class="form-control" name="packagechild">
                             <?php
-                            for ($i=1; $i<=20; $i++) { 
+                            for ($i=0; $i<=20; $i++) { 
                                 ?>
                                 <option value="<?= $i; ?>"><?= $i; ?></option>
                                 <?php
