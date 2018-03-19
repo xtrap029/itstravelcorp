@@ -126,7 +126,7 @@
     
                             <label class="btn btn-danger btn-xs">
                                 No
-                                <input type="radio" name="request-flight" id="request-flight" value="no" autocomplete="off">
+                                <input type="radio" name="request-flight" id="request-flight" value="no" checked="checked" autocomplete="off">
                                 <span class="glyphicon glyphicon-remove"></span>
                             </label>
                         </div>
