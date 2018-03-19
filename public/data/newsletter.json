@@ -1,0 +1,47 @@
+{
+    "location": 
+    {
+        "siargao": 
+	    {
+	        "hotel1": "999",
+		    "hotel2": "1999",
+		    "hotel3": "2999"
+	    },
+	    "zambales": 
+	    {
+	        "hotel1": "999",
+		    "hotel2": "1999",
+		    "hotel3": "2999"
+	    },
+	    "batangas": 
+	    {
+	        "hotel1": "999",
+		    "hotel2": "1999",
+		    "hotel3": "2999"
+	    },
+	    "baler": 
+	    {
+	        "hotel1": "999",
+		    "hotel2": "1999",
+		    "hotel3": "2999"
+	    },
+	    "mindoro": 
+	    {
+	        "hotel1": "999",
+		    "hotel2": "1999",
+		    "hotel3": "2999"
+	    },
+	    "subic": 
+	    {
+	        "hotel1": "999",
+		    "hotel2": "1999",
+		    "hotel3": "2999"
+	    },
+	    "bataan": 
+	    {
+	        "hotel1": "999",
+		    "hotel2": "1999",
+		    "hotel3": "2999"
+	    }
+    }
+}
