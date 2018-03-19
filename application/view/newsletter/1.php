@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title></title>
+	<link rel="stylesheet" href="<?php echo Config::get('URL'); ?>public/assets/fonts/font-awesome/font-awesome.min.css">
 	<style type="text/css">
 		body{
 			margin: auto;
@@ -58,6 +59,10 @@
 		    font-family: raleway-medium;
 		    src: url(<?php echo Config::get('URL'); ?>public/assets/fonts/raleway/Raleway-Medium_0.ttf);
 		}
+		@font-face {
+		    font-family: montserrat-light;
+		    src: url(<?php echo Config::get('URL'); ?>public/assets/fonts/montserrat/Montserrat-Light.otf);
+		}
 		#footer{
 			text-align: center;
 		}
@@ -69,6 +74,18 @@
 		#footer-subtitle{
 			font-family: raleway-medium;
 			font-size: 12px;
+			color: #337ab7;
+		}
+		#footer-links{
+			font-family: montserrat-light;
+			font-size: 12px;
+			margin-left: 34px;
+			margin-right: 34px;
+			line-height: 20px;
+			text-align: left;
+		}
+		.icons{
+			font-size: 11px;
 			color: #337ab7;
 		}
 	</style>
@@ -108,6 +125,18 @@
 		<br>
 		<div id="footer-title">Get in touch with us</div>
 		<div id="footer-subtitle">Call us and we are happy to assist you</div>
+		<br><br>
+		<div id="footer-links">
+			<div style="width: 285px; display: inline-block; vertical-align: top; margin-right: 39px;">
+				<i class="fa fa-globe icons" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;&nbsp;www.itstravelcorp.com<br>			
+				<i class="fa fa-phone icons" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;&nbsp;(02) 812 4970 / 817 8965 / 812 8596<br>
+				<i class="fa fa-mobile icons" style="font-size: 15px;" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;&nbsp;0916 785 4754 / 0916 240 2704 / 0921 475<br>
+			</div>
+			<div style="width: 254px; display: inline-block; vertical-align: top;">			
+				<i class="fa fa-facebook-square icons" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;&nbsp;facebook.com/innovativetravelsolutions<br>			
+				<i class="fa fa-envelope icons" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;&nbsp;reservations@itstravelcorp.com<br>
+			</div>
+		</div>
 		<br><br>
 	</div>
 </body>

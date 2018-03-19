@@ -21,6 +21,11 @@ class ReservationController extends Controller
         $this->View->render('package/reservations', array('packagename' => $package, 'checkin' => $checkIn, 'checkout' => $checkOut, 'adult' => $adult, 'child' => $child, 'hotel' => $hotel, 'rate' => $rate, 'location' => $location));
     }
 
+    public function newsletter()
+    {
+        $this->View->render('package/reservations-newsletter');
+    }
+
     public function success()
     {
         $this->View->render('package/success');
