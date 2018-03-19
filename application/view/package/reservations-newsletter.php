@@ -112,7 +112,7 @@
                         </div>
                     </div>
 
-                    <div id="req" class="row" style="margin-top:10px; margin-bottom:20px; padding:0px 15px;">
+                    <!-- <div id="req" class="row" style="margin-top:10px; margin-bottom:20px; padding:0px 15px;">
                         <input type="hidden" id="request-flight-val" name="request-flight-val">
                         <label for="name">Request for quotation? <span style="color:red;">*</span> </label> &nbsp;
 
@@ -130,7 +130,7 @@
                                 <span class="glyphicon glyphicon-remove"></span>
                             </label>
                         </div>
-                    </div>
+                    </div> -->
 
                     <div id="flight-details">
                         <h2 class="sidebar-title">Flight Information</h2>
