@@ -257,7 +257,7 @@
                             <?php
                             foreach ($this->hotels as $key => $value) {
                                 ?>
-                                <option value="<?= ucwords($value); ?>" data-rate="<?= $this->rates[$key]; ?>"><?= $value; ?></option>
+                                <option value="<?= ucwords(strtolower($value)); ?>" data-rate="<?= $this->rates[$key]; ?>"><?= ucwords(strtolower($value)); ?></option>
                                 <?php
                             }
                             ?>
