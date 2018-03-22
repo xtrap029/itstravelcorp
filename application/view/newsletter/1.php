@@ -9,6 +9,9 @@
     p{
       margin: 0;
     }
+    a{
+      text-decoration: none;
+    }
 </style>
 </head>
 <body style="margin: 0; padding: 0;">
@@ -79,11 +82,11 @@
   	</td>
   </tr>
   <tr>
-  	<td style="font-size: 10px; font-family: Montserrat; font-weight: 300">
+  	<td style="font-size: 10px; font-family: Montserrat; font-weight: 300; text-decoration: none;">
       <font color="white">------</font>
   		<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/icons/web.png" width="11" height="11">
       <font color="white">--</font>
-  		www.itstravelcorp.com<br>
+  		www.itstravelcorp.<img src="" width="0" height="0">com<br>
       <font color="white">------</font>
   		<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/icons/phone.png" width="11" height="11"> 
       <font color="white">--</font>
