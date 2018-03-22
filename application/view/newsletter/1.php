@@ -18,58 +18,58 @@
  <table cellpadding="10" cellspacing="0" width="650" align="center">
   <tr>
    <td align="center" colspan="2">
-	 <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/siargao" target="_blank">
-	 	<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/header-banner.png" alt="Creating Email Magic" width="650" height="525" style="display: block;" />
-	 </a>	
-	</td>
+   <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/siargao" target="_blank">
+    <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/header-banner.png" alt="Creating Email Magic" width="650" height="525" style="display: block;" />
+   </a> 
+  </td>
   </tr>
   <tr>
-  	<td align="center">
-      <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
-    		<a href="<?php echo Config::get('URL'); ?>reservation/newsletter/batangas" target="_blank">
-    			<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/batangas.jpg" width="285" height="374" style="padding-left: 30px;">
-    		</a>        
-      </p>
-  	</td>
-  	<td align="center">
-      <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
-    		<a href="<?php echo Config::get('URL'); ?>reservation/newsletter/subic" target="_blank">
-    			<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/subic.jpg" width="285" height="374" style="padding-right: 30px;">
-    		</a>
-      </p>
-  	</td>
-  </tr>
-  <tr>
-  	<td align="center">
-      <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
-    		<a href="<?php echo Config::get('URL'); ?>reservation/newsletter/puertoprincesa" target="_blank">
-    			<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/puertoprincesa.jpg" width="285" height="374" style="padding-left: 30px;">
-    		</a>
-      </p>
-  	</td>
-  	<td align="center">
-      <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
-    		<a href="<?php echo Config::get('URL'); ?>reservation/newsletter/coron" target="_blank">
-    			<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/coron.jpg" width="285" height="374" style="padding-right: 30px;">
-    		</a>
-      </p>
-  	</td>
-  </tr>
-  <tr>
-  	<td align="center">
-      <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
-    		<a href="<?php echo Config::get('URL'); ?>reservation/newsletter/bohol" target="_blank">
-    			<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/bohol.jpg" width="285" height="374" style="padding-left: 30px;">
-    		</a>
-      </p>
-  	</td>
   	<td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
     		<a href="<?php echo Config::get('URL'); ?>reservation/newsletter/cebu" target="_blank">
-    			<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/cebu.jpg" width="285" height="374" style="padding-right: 30px;">
+    			<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/cebu.jpg" width="285" height="374" style="padding-left: 30px;">
     		</a>
       </p>
   	</td>
+    <td align="center">
+      <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
+        <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/bohol" target="_blank">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/bohol.jpg" width="285" height="374" style="padding-right: 30px;">
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
+        <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/puertoprincesa" target="_blank">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/puertoprincesa.jpg" width="285" height="374" style="padding-left: 30px;">
+        </a>
+      </p>
+    </td>
+    <td align="center">
+      <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
+        <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/coron" target="_blank">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/coron.jpg" width="285" height="374" style="padding-right: 30px;">
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
+        <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/batangas" target="_blank">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/batangas.jpg" width="285" height="374" style="padding-left: 30px;">
+        </a>        
+      </p>
+    </td>
+    <td align="center">
+      <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
+        <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/subic" target="_blank">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/subic.jpg" width="285" height="374" style="padding-right: 30px;">
+        </a>
+      </p>
+    </td>
   </tr>
   <tr>
   	<td colspan="2" align="center" style="font-size: 18px; color: #1c3858; font-family: Raleway; font-weight: 700">
@@ -86,7 +86,7 @@
       <font color="white">------</font>
   		<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/icons/web.png" width="11" height="11">
       <font color="white">--</font>
-  		www.itstravelcorp.<img src="" width="0" height="0">com<br>
+  		www.&#65279;itstravelcorp.&#65279;com<br>
       <font color="white">------</font>
   		<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/icons/phone.png" width="11" height="11"> 
       <font color="white">--</font>
