@@ -15,14 +15,14 @@
 	    },
 	    "puertoprincesa": 
 	    {
-	        "MARIANNE HOME INN ( Twin Sharing )": "2530",
-		    "MARIANNE HOME INN ( Triple Sharing )": "3933",
-		    "CASA FUERTE BED & BREAKFAST ( Twin Sharing )": "3208.5",
-		    "CASA FUERTE BED & BREAKFAST ( Triple Sharing )": "2944",
-		    "SHERIDAN BEACH RESORT & SPA ( Twin Sharing )": "14375",
-		    "SHERIDAN BEACH RESORT & SPA ( Triple Sharing )": "6533.33",
-		    "ASCENDO SUITES ( Twin Sharing )": "2925.6",
-		    "ASCENDO SUITES ( Triple Sharing )": "2755.4"
+	        "MARIANNE HOME INN ( Twin Sharing )": "1380",
+		    "MARIANNE HOME INN ( Triple Sharing )": "1472",
+		    "CASA FUERTE BED & BREAKFAST ( Twin Sharing )": "2058.5",
+		    "CASA FUERTE BED & BREAKFAST ( Triple Sharing )": "1794",
+		    "SHERIDAN BEACH RESORT & SPA ( Twin Sharing )": "13225",
+		    "SHERIDAN BEACH RESORT & SPA ( Triple Sharing )": "10120",
+		    "ASCENDO SUITES ( Twin Sharing )": "1775.6",
+		    "ASCENDO SUITES ( Triple Sharing )": "1605.4"
 	    },
 	    "coron": 
 	    {
@@ -58,12 +58,18 @@
 	    },
 	    "siargao": 
 	    {
-	    	"POINT 303 RESORT ( Twin Sharing )": "12174.1",
-	        "POINT 303 RESORT ( Triple Sharing )": "12570.1",
-		    "PATRICKS ON THE BEACH ( Twin Sharing )": "13580.35",
-		    "PATRICKS ON THE BEACH ( Triple Sharing )": "12855.85",
-		    "SIARGAO BLUE RESORT AND SPA ( Twin Sharing )": "17552.45",
-		    "SIARGAO BLUE RESORT AND SPA ( Triple Sharing )": "17178.3"
+	    	"POINT 303 RESORT ( Twin Sharing - Without Flight )": "1471.2",
+	        "POINT 303 RESORT ( Triple Sharing - Without Flight )": "1867.2",
+	    	"POINT 303 RESORT ( Twin Sharing - With Flight )": "12174.1",
+	        "POINT 303 RESORT ( Triple Sharing - With Flight )": "12570.1",
+	        "PATRICKS ON THE BEACH ( Twin Sharing - Without Flight )": "3323.5",
+		    "PATRICKS ON THE BEACH ( Triple Sharing - Without Flight )": "2599",
+		    "PATRICKS ON THE BEACH ( Twin Sharing - With Flight )": "13580.35",
+		    "PATRICKS ON THE BEACH ( Triple Sharing - With Flight )": "12855.85",
+		    "SIARGAO BLUE RESORT AND SPA ( Twin Sharing - Without Flight )": "7295.6",
+		    "SIARGAO BLUE RESORT AND SPA ( Triple Sharing - Without Flight )": "6921.45",
+		    "SIARGAO BLUE RESORT AND SPA ( Twin Sharing - With Flight )": "17552.45",
+		    "SIARGAO BLUE RESORT AND SPA ( Triple Sharing - With Flight )": "17178.3"
 	    }
     }
 }
