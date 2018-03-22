@@ -24,6 +24,22 @@
   </td>
   </tr>
   <tr>
+    <td align="center">
+      <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
+        <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/coron" target="_blank">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/coron.jpg" width="285" height="374" style="padding-left: 30px;">
+        </a>
+      </p>
+    </td>
+    <td align="center">
+      <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
+        <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/puertoprincesa" target="_blank">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/puertoprincesa.jpg" width="285" height="374" style="padding-right: 30px;">
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
   	<td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
     		<a href="<?php echo Config::get('URL'); ?>reservation/newsletter/cebu" target="_blank">
@@ -35,22 +51,6 @@
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
         <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/bohol" target="_blank">
           <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/bohol.jpg" width="285" height="374" style="padding-right: 30px;">
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
-        <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/puertoprincesa" target="_blank">
-          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/puertoprincesa.jpg" width="285" height="374" style="padding-left: 30px;">
-        </a>
-      </p>
-    </td>
-    <td align="center">
-      <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
-        <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/coron" target="_blank">
-          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/coron.jpg" width="285" height="374" style="padding-right: 30px;">
         </a>
       </p>
     </td>
@@ -86,7 +86,7 @@
       <font color="white">------</font>
   		<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/icons/web.png" width="11" height="11">
       <font color="white">--</font>
-  		www.&#65279;itstravelcorp.&#65279;com<br>
+  		<span style="text-decoration: none;">www.&#65279;itstravelcorp.&#65279;com</span><br>
       <font color="white">------</font>
   		<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/icons/phone.png" width="11" height="11"> 
       <font color="white">--</font>
