@@ -10,7 +10,7 @@
                 <div class="reservation">
                     <h2 class="sidebar-title">Contact Information</h2>
 
-                    <div class="row" style="padding:0px 10px;">
+                    <div class="row" style="padding:0px 10px;"> 
 
                         <div class="col-md-2 col-xs-12 no-gutter">
                             <label for="name">Name <span style="color:red;">*</span></label>
