@@ -19,22 +19,22 @@
   <tr>
    <td align="center" colspan="2">
    <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/siargao" target="_blank">
-    <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/header-banner.png" alt="Creating Email Magic" width="650" height="525" style="display: block;" />
+    <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/header-banner-1.png" alt="Creating Email Magic" width="650" height="525" style="display: block;" />
    </a> 
   </td>
   </tr>
   <tr>
     <td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
-        <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/coron" target="_blank">
-          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/coron.jpg" width="285" height="374" style="padding-left: 30px;">
+        <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/puertoprincesa" target="_blank">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/puertoprincesa-1.jpg" width="285" height="374" style="padding-left: 30px;">
         </a>
       </p>
     </td>
     <td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
-        <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/puertoprincesa" target="_blank">
-          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/puertoprincesa.jpg" width="285" height="374" style="padding-right: 30px;">
+        <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/coron" target="_blank">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/coron-1.jpg" width="285" height="374" style="padding-right: 30px;">
         </a>
       </p>
     </td>
@@ -43,14 +43,14 @@
   	<td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
     		<a href="<?php echo Config::get('URL'); ?>reservation/newsletter/cebu" target="_blank">
-    			<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/cebu.jpg" width="285" height="374" style="padding-left: 30px;">
+    			<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/cebu-1.jpg" width="285" height="374" style="padding-left: 30px;">
     		</a>
       </p>
   	</td>
     <td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
         <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/bohol" target="_blank">
-          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/bohol.jpg" width="285" height="374" style="padding-right: 30px;">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/bohol-1.jpg" width="285" height="374" style="padding-right: 30px;">
         </a>
       </p>
     </td>
@@ -59,14 +59,14 @@
     <td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
         <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/batangas" target="_blank">
-          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/batangas.jpg" width="285" height="374" style="padding-left: 30px;">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/batangas-1.jpg" width="285" height="374" style="padding-left: 30px;">
         </a>        
       </p>
     </td>
     <td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
         <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/subic" target="_blank">
-          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/subic.jpg" width="285" height="374" style="padding-right: 30px;">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/subic-1.jpg" width="285" height="374" style="padding-right: 30px;">
         </a>
       </p>
     </td>
@@ -82,7 +82,7 @@
   	</td>
   </tr>
   <tr>
-  	<td style="font-size: 10px; font-family: Montserrat; font-weight: 300; text-decoration: none;">
+  	<td style="font-size: 10px; font-family: Montserrat; font-weight: 300; text-decoration: none; color: black;">
       <font color="white">------</font>
   		<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/icons/web.png" width="11" height="11">
       <font color="white">--</font>
@@ -96,7 +96,7 @@
       <font color="white">--</font>
   		0916 785 4754 / 0916 240 2704 / 0921 475 1690
   	</td>
-  	<td style="font-size: 10px; font-family: Montserrat; font-weight: 300">
+  	<td style="font-size: 10px; font-family: Montserrat; font-weight: 300; color: black;">
       <font color="white">------</font>
   		<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/icons/fb.png" width="11" height="11"> 
       <font color="white">--</font>
