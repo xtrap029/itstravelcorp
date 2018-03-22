@@ -1,0 +1,69 @@
+{
+    "location": 
+    {
+        "batangas": 
+	    {
+	        "Chateau Royale Hotel Resort and Spa ( Twin Sharing )": "1310",
+	        "The Pelicans Resort ( Twin Sharing )": "1775",
+	        "Meaco Hotel - Anilao ( Twin Sharing )": "1242"
+	    },
+	    "subic": 
+	    {
+	        "Jade Hotel and Restaurant ( Twin Sharing )": "684",
+	        "Mountain Woods Resort Hotel ( Twin Sharing )": "1439",
+	        "Subiza Beach Resort ( Twin Sharing )": "1515"
+	    },
+	    "puertoprincesa": 
+	    {
+	        "MARIANNE HOME INN ( Twin Sharing )": "2530",
+		    "MARIANNE HOME INN ( Triple Sharing )": "3933",
+		    "CASA FUERTE BED & BREAKFAST ( Twin Sharing )": "3208.5",
+		    "CASA FUERTE BED & BREAKFAST ( Triple Sharing )": "2944",
+		    "SHERIDAN BEACH RESORT & SPA ( Twin Sharing )": "14375",
+		    "SHERIDAN BEACH RESORT & SPA ( Triple Sharing )": "6533.33",
+		    "ASCENDO SUITES ( Twin Sharing )": "2925.6",
+		    "ASCENDO SUITES ( Triple Sharing )": "2755.4"
+	    },
+	    "coron": 
+	    {
+	        "JAZMINE'S PLACE ( Twin Sharing )": "2875",
+		    "JAZMINE'S PLACE ( Triple Sharing )": "2703",
+		    "CORON VILLAGE LODGE ( Twin Sharing )": "3335",
+		    "CORON VILLAGE LODGE ( Triple Sharing )": "2550",
+		    "SOPHIA'S GARDEN RESORT ( Twin Sharing )": "5118",
+		    "SOPHIA'S GARDEN RESORT ( Triple Sharing )": "5118",
+		    "TWO SEASONS CORON BAYSIDE ( Twin Sharing )": "8964",
+		    "TWO SEASONS CORON BAYSIDE ( Triple Sharing )": "7935"
+	    },
+	    "bohol": 
+	    {
+	        "DAO DIAMOND HOTEL ( Twin Sharing )": "5232",
+		    "DAO DIAMOND HOTEL ( Triple Sharing )": "4982",
+		    "BOHOL BEE FARM ( Twin Sharing )": "6150",
+		    "BOHOL BEE FARM ( Triple Sharing )": "5038",
+		    "EAST COAST WHITE SAND RESORT ( Twin Sharing )": "9899",
+		    "EAST COAST WHITE SAND RESORT ( Triple Sharing )": "8243"
+	    },
+	    "cebu": 
+	    {
+	        "MANGROVE ORIENTAL RESORT ( Twin Sharing )": "7081",
+	        "MANGROVE ORIENTAL RESORT ( Triple Sharing )": "6194",
+	        "SEBASTIEN HOTEL ( Twin Sharing )": "5553",
+	        "SEBASTIEN HOTEL ( Triple Sharing )": "5300",
+	        "SUMMIT CIRCLE CEBU ( Twin Sharing )": "6308",
+	        "SUMMIT CIRCLE CEBU ( Triple Sharing )": "6217",
+	        "RAJAH PARK HOTEL ( Twin Sharing )": "6317",
+	        "RAJAH PARK HOTEL ( Triple Sharing )": "5726",
+	        "THE ORCHARD HOTEL ( Twin Sharing )": "4978"
+	    },
+	    "siargao": 
+	    {
+	    	"POINT 303 RESORT ( Twin Sharing )": "12174.1",
+	        "POINT 303 RESORT ( Triple Sharing )": "12570.1",
+		    "PATRICKS ON THE BEACH ( Twin Sharing )": "13580.35",
+		    "PATRICKS ON THE BEACH ( Triple Sharing )": "12855.85",
+		    "SIARGAO BLUE RESORT AND SPA ( Twin Sharing )": "17552.45",
+		    "SIARGAO BLUE RESORT AND SPA ( Triple Sharing )": "17178.3"
+	    }
+    }
+}

@@ -119,6 +119,9 @@
 
 
     <script src="<?php echo Config::get('URL'); ?>assets/js/booking-validations.js"></script>
+
+    <script type="text/javascript" src="<?php echo Config::get('URL'); ?>public/vendor/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
+    <script type="text/javascript" src="<?php echo Config::get('URL'); ?>public/vendor/bootstrap-datepicker/js/custom-datepicker.js"></script>
     
     
 
