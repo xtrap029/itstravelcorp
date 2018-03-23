@@ -19,7 +19,7 @@
   <tr>
    <td align="center" colspan="2">
    <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/siargao" target="_blank">
-    <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/header-banner-1.png" alt="Creating Email Magic" width="650" height="525" style="display: block;" />
+    <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/header-banner-2.png" alt="Creating Email Magic" width="650" height="525" style="display: block;" />
    </a> 
   </td>
   </tr>
