@@ -138,7 +138,7 @@ class ReservationController extends Controller
         $requestFlight = Request::post('request-flight-val');
 
         //send with flight details (yes no)
-        if($haveFlight == "yes" && $requestFlight == "no"){
+        if($haveFlight == "yes"){
             if(HelperModel::SendMailWithFlight()){
                 Redirect::to('reservation/success');    
             }
