@@ -27,7 +27,7 @@
     <td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
         <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/puertoprincesa" target="_blank">
-          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/puertoprincesa-1.jpg" width="285" height="374" style="padding-left: 30px;">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/puertoprincesa-2.jpg" width="285" height="374" style="padding-left: 30px;">
         </a>
       </p>
     </td>
@@ -104,7 +104,7 @@
       <font color="white">------</font>
   		<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/icons/email.png" width="11" height="11"> 
       <font color="white">--</font>
-  		<a href="mailto:reservations@itstravelcorp.com?Subject=Newsletter%20Inquiry"" target="_blank" style="color: black; text-decoration: none;">reservations@itstravelcorp.com</a><br><br>
+  		<a href="mailto:reservations@itstravelcorp.com?Subject=Newsletter%20Inquiry" target="_blank" style="color: black; text-decoration: none;">reservations@itstravelcorp.com</a><br><br>
   	</td>
   </tr>
   <tr><td colspan="2"><br><br></td></tr>
