@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <style type="text/css">
   	@import url('https://fonts.googleapis.com/css?family=Montserrat:300|Raleway:500,700');
-    p{
+    p{ 
       margin: 0;
     }
     a{
