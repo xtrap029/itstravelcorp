@@ -3,19 +3,27 @@
     {
         "hongkong": 
 	    {
-	        "Panda Hotel ( Twin Sharing )": "114"
+	        "Panda Hotel ( Twin Sharing )": "114",
+	        "Silka Far East Hotel ( Twin Sharing )": "118",
+	        "Best Western Plus Knowloon ( Twin Sharing )": "130"
 	    },
 	    "bangkok": 
 	    {
-	        "Dream Town Pratunam Hotel ( Twin Sharing )": "99"
+	        "Dream Town Pratunam Hotel ( Twin Sharing )": "99",
+	        "Bangkok Midtown Hotel ( Twin Sharing )": "113",
+	        "Ramada D'Ma Bangkok ( Twin Sharing )": "124"
 	    },
 	    "cebu": 
 	    {
-	        "The Orchard Hotel and Suites ( Twin Sharing )": "4977"
+	        "The Orchard Hotel and Suites ( Twin Sharing )": "2668",
+	        "Summit Circle Cebu ( Twin Sharing )": "3998",
+	        "Rajah Park Hotel ( Twin Sharing )": "4007"
 	    },
 	    "puertoprincesa": 
 	    {
-	        "Ascendo Suites ( Twin Sharing )": "1777"
+	        "Marianne Home Inn ( Twin Sharing )": "920",
+	        "Ascendo Suites ( Twin Sharing )": "1316",
+	        "Casa Fuerte Bed and Dine ( Twin Sharing )": "1599"
 	    },
 	    "coron": 
 	    {
