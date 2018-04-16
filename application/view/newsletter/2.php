@@ -27,14 +27,14 @@
     <td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
         <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/puertoprincesa" target="_blank">
-          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/puertoprincesa.jpg" width="285" height="374" style="padding-left: 30px;">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/puertoprincesa-1.jpg" width="285" height="374" style="padding-left: 30px;">
         </a>
       </p>
     </td>
     <td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
         <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/cebu" target="_blank">
-          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/cebu.jpg" width="285" height="374" style="padding-right: 30px;">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/cebu-1.jpg" width="285" height="374" style="padding-right: 30px;">
         </a>
       </p>
     </td>
@@ -43,14 +43,14 @@
   	<td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
     		<a href="<?php echo Config::get('URL'); ?>reservation/newsletter/hongkong" target="_blank">
-    			<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/hongkong.jpg" width="285" height="374" style="padding-left: 30px;">
+    			<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/hongkong-1.jpg" width="285" height="374" style="padding-left: 30px;">
     		</a>
       </p>
   	</td>
     <td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
         <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/bangkok" target="_blank">
-          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/bangkok.jpg" width="285" height="374" style="padding-right: 30px;">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/bangkok-1.jpg" width="285" height="374" style="padding-right: 30px;">
         </a>
       </p>
     </td>
