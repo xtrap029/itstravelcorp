@@ -1,75 +1,32 @@
 {
     "location": 
     {
-        "batangas": 
+        "hongkong": 
 	    {
-	        "Chateau Royale Hotel Resort and Spa ( Twin Sharing )": "1310",
-	        "The Pelicans Resort ( Twin Sharing )": "1775",
-	        "Meaco Hotel - Anilao ( Twin Sharing )": "1299"
+	        "Panda Hotel ( Twin Sharing )": "114"
 	    },
-	    "subic": 
+	    "bangkok": 
 	    {
-	        "Jade Hotel and Restaurant ( Twin Sharing )": "699",
-	        "Mountain Woods Resort Hotel ( Twin Sharing )": "1439",
-	        "Subiza Beach Resort ( Twin Sharing )": "1515"
-	    },
-	    "puertoprincesa": 
-	    {
-	        "MARIANNE HOME INN ( Twin Sharing )": "1399",
-		    "MARIANNE HOME INN ( Triple Sharing )": "1472",
-		    "CASA FUERTE BED & BREAKFAST ( Twin Sharing )": "2058.5",
-		    "CASA FUERTE BED & BREAKFAST ( Triple Sharing )": "1794",
-		    "SHERIDAN BEACH RESORT & SPA ( Twin Sharing )": "13225",
-		    "SHERIDAN BEACH RESORT & SPA ( Triple Sharing )": "10120",
-		    "ASCENDO SUITES ( Twin Sharing )": "1775.6",
-		    "ASCENDO SUITES ( Triple Sharing )": "1605.4"
-	    },
-	    "coron": 
-	    {
-	        "JAZMINE'S PLACE ( Twin Sharing )": "2875",
-		    "JAZMINE'S PLACE ( Triple Sharing )": "2703",
-		    "CORON VILLAGE LODGE ( Twin Sharing )": "3335",
-		    "CORON VILLAGE LODGE ( Triple Sharing )": "2599",
-		    "SOPHIA'S GARDEN RESORT ( Twin Sharing )": "5118",
-		    "SOPHIA'S GARDEN RESORT ( Triple Sharing )": "5118",
-		    "TWO SEASONS CORON BAYSIDE ( Twin Sharing )": "8964",
-		    "TWO SEASONS CORON BAYSIDE ( Triple Sharing )": "7935"
-	    },
-	    "bohol": 
-	    {
-	        "DAO DIAMOND HOTEL ( Twin Sharing )": "5232",
-		    "DAO DIAMOND HOTEL ( Triple Sharing )": "4982",
-		    "BOHOL BEE FARM ( Twin Sharing )": "6150",
-		    "BOHOL BEE FARM ( Triple Sharing )": "5099",
-		    "EAST COAST WHITE SAND RESORT ( Twin Sharing )": "9899",
-		    "EAST COAST WHITE SAND RESORT ( Triple Sharing )": "8243"
+	        "Dream Town Pratunam Hotel ( Twin Sharing )": "99"
 	    },
 	    "cebu": 
 	    {
-	        "MANGROVE ORIENTAL RESORT ( Twin Sharing )": "7081",
-	        "MANGROVE ORIENTAL RESORT ( Triple Sharing )": "6194",
-	        "SEBASTIEN HOTEL ( Twin Sharing )": "5553",
-	        "SEBASTIEN HOTEL ( Triple Sharing )": "5300",
-	        "SUMMIT CIRCLE CEBU ( Twin Sharing )": "6308",
-	        "SUMMIT CIRCLE CEBU ( Triple Sharing )": "6217",
-	        "RAJAH PARK HOTEL ( Twin Sharing )": "6317",
-	        "RAJAH PARK HOTEL ( Triple Sharing )": "5726",
-	        "THE ORCHARD HOTEL ( Twin Sharing )": "4999"
+	        "The Orchard Hotel and Suites ( Twin Sharing )": "4977"
 	    },
-	    "siargao": 
+	    "puertoprincesa": 
 	    {
-	    	"POINT 303 RESORT ( Twin Sharing - Without Flight )": "1471.2",
-	        "POINT 303 RESORT ( Triple Sharing - Without Flight )": "1867.2",
-	    	"POINT 303 RESORT ( Twin Sharing - With Flight )": "12199",
-	        "POINT 303 RESORT ( Triple Sharing - With Flight )": "12570.1",
-	        "PATRICKS ON THE BEACH ( Twin Sharing - Without Flight )": "3323.5",
-		    "PATRICKS ON THE BEACH ( Triple Sharing - Without Flight )": "2599",
-		    "PATRICKS ON THE BEACH ( Twin Sharing - With Flight )": "13580.35",
-		    "PATRICKS ON THE BEACH ( Triple Sharing - With Flight )": "12855.85",
-		    "SIARGAO BLUE RESORT AND SPA ( Twin Sharing - Without Flight )": "7295.6",
-		    "SIARGAO BLUE RESORT AND SPA ( Triple Sharing - Without Flight )": "6921.45",
-		    "SIARGAO BLUE RESORT AND SPA ( Twin Sharing - With Flight )": "17552.45",
-		    "SIARGAO BLUE RESORT AND SPA ( Triple Sharing - With Flight )": "17178.3"
+	        "Ascendo Suites ( Twin Sharing )": "1777"
+	    },
+	    "coron": 
+	    {
+	        "Jasmine's Place ( Twin Sharing )": "8313.35",
+	        "Jasmine's Place ( Triple Sharing )": "8141.35",
+	        "Coron Village Lodge ( Twin Sharing )": "8773.35",
+	        "Coron Village Lodge ( Triple Sharing )": "7999",
+	        "Sophia's Garden Resort ( Twin Sharing )": "10556.35",
+	        "Sophia's Garden Resort ( Triple Sharing )": "10556.35",
+	        "Two Seasons Coron Bayside ( Twin Sharing )": "14402.35",
+	        "Two Seasons Coron Bayside ( Triple Sharing )": "13373.35"
 	    }
     }
 }
