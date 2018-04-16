@@ -262,7 +262,7 @@
                             }
                             ?>
                         </select>
-                        <h5>Package Rate <small>(per person)</small>: </h5> &#8369; <span id="packageratedisplay"></span>
+                        <h5>Package Rate <small>(per person)</small>: </h5> <span id="display_currency"></span> <span id="packageratedisplay"></span>
                         <input type="hidden" id="packagerate" name="packagerate">
                         <h5>Check-in Date: </h5>
                         <input type="text" class="form-control datepicker datereserve datepickerfrom" name="packagestart">
@@ -498,6 +498,13 @@
 
         function getRate(){
             var rate = $('#packagehotel').find(":selected").data('rate');
+
+            if(rate == 99 || rate == 114){
+                $('#display_currency').html('&#x24;');
+            }
+            else{
+                $('#display_currency').html('&#8369;');                
+            }
 
             $('#packagerate').val(rate);
             $('#packageratedisplay').text(rate.toLocaleString('en'));

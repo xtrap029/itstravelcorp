@@ -8,6 +8,11 @@ class NewsletterController extends Controller
     }
 
     public function ver($ver = null){
-        $this->View->renderWithoutHeaderAndFooter('newsletter/'.$ver);
+    	if($ver == 2){
+        	$this->View->renderWithoutHeaderAndFooter('newsletter/'.$ver);
+    	}
+    	else{
+    		echo "Page not found.";
+    	}
     }
 }
