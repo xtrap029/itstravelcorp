@@ -19,7 +19,7 @@
   <tr>
    <td align="center" colspan="2">
    <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/coron" target="_blank">
-    <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/header-banner-3.jpg" alt="Creating Email Magic" width="650" height="584" style="display: block;" />
+    <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/coron-header.jpg" alt="Creating Email Magic" width="650" height="584" style="display: block;" />
    </a> 
   </td>
   </tr>
@@ -27,14 +27,14 @@
     <td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
         <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/puertoprincesa" target="_blank">
-          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/puertoprincesa-1.jpg" width="285" height="374" style="padding-left: 30px;">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/pp1.jpg" width="285" height="374" style="padding-left: 30px;">
         </a>
       </p>
     </td>
     <td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
         <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/cebu" target="_blank">
-          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/cebu-1.jpg" width="285" height="374" style="padding-right: 30px;">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/cebu1.jpg" width="285" height="374" style="padding-right: 30px;">
         </a>
       </p>
     </td>
@@ -43,14 +43,14 @@
   	<td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
     		<a href="<?php echo Config::get('URL'); ?>reservation/newsletter/hongkong" target="_blank">
-    			<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/hongkong-1.jpg" width="285" height="374" style="padding-left: 30px;">
+    			<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/hongkong1.jpg" width="285" height="374" style="padding-left: 30px;">
     		</a>
       </p>
   	</td>
     <td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
         <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/bangkok" target="_blank">
-          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/bangkok-1.jpg" width="285" height="374" style="padding-right: 30px;">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/bangkok1.jpg" width="285" height="374" style="padding-right: 30px;">
         </a>
       </p>
     </td>
