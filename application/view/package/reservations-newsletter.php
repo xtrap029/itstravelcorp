@@ -499,7 +499,7 @@
         function getRate(){
             var rate = $('#packagehotel').find(":selected").data('rate');
 
-            if(rate == 99 || rate == 114){
+            if(rate <= 300){
                 $('#display_currency').html('&#x24;');
             }
             else{

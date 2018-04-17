@@ -4,6 +4,7 @@
 	<title></title>
 	<link rel="stylesheet" href="<?php echo Config::get('URL'); ?>public/assets/fonts/font-awesome/font-awesome.min.css">
 	<style type="text/css">
+	
 		body{
 			margin: auto;
 			max-width: 650px;
