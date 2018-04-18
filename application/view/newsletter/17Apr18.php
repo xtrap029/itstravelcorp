@@ -18,23 +18,23 @@
  <table cellpadding="10" cellspacing="0" width="650" align="center">
   <tr>
    <td align="center" colspan="2">
-   <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/coron" target="_blank">
-    <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/coron-header5.jpg" alt="Creating Email Magic" width="650" height="584" style="display: block;" />
+   <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/<?= $this->ver; ?>/coron" target="_blank">
+    <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/<?= $this->ver; ?>/location/coron-header5.jpg" alt="Creating Email Magic" width="650" height="584" style="display: block;" />
    </a> 
   </td>
   </tr>
   <tr>
     <td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
-        <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/puertoprincesa" target="_blank">
-          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/pp5.jpg" width="285" height="374" style="padding-left: 30px;">
+        <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/<?= $this->ver; ?>/puertoprincesa" target="_blank">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/<?= $this->ver; ?>/location/pp5.jpg" width="285" height="374" style="padding-left: 30px;">
         </a>
       </p>
     </td>
     <td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
-        <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/cebu" target="_blank">
-          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/cebu5.jpg" width="285" height="374" style="padding-right: 30px;">
+        <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/<?= $this->ver; ?>/cebu" target="_blank">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/<?= $this->ver; ?>/location/cebu5.jpg" width="285" height="374" style="padding-right: 30px;">
         </a>
       </p>
     </td>
@@ -42,15 +42,15 @@
   <tr>
   	<td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
-    		<a href="<?php echo Config::get('URL'); ?>reservation/newsletter/hongkong" target="_blank">
-    			<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/hongkong5.jpg" width="285" height="374" style="padding-left: 30px;">
+    		<a href="<?php echo Config::get('URL'); ?>reservation/newsletter/<?= $this->ver; ?>/hongkong" target="_blank">
+    			<img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/<?= $this->ver; ?>/location/hongkong5.jpg" width="285" height="374" style="padding-left: 30px;">
     		</a>
       </p>
   	</td>
     <td align="center">
       <p style="mso-line-height-rule: exactly; line-height: 150%; padding:2px">
-        <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/bangkok" target="_blank">
-          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/bangkok5.jpg" width="285" height="374" style="padding-right: 30px;">
+        <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/<?= $this->ver; ?>/bangkok" target="_blank">
+          <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/<?= $this->ver; ?>/location/bangkok5.jpg" width="285" height="374" style="padding-right: 30px;">
         </a>
       </p>
     </td>

@@ -20,10 +20,10 @@ class ReservationController extends Controller
         $this->View->render('package/reservations', array('packagename' => $package, 'checkin' => $checkIn, 'checkout' => $checkOut, 'adult' => $adult, 'child' => $child, 'hotel' => $hotel, 'rate' => $rate, 'location' => $location));
     }
 
-    public function newsletter($location)
+    public function newsletter($ver, $location)
     {
-        $hotels = NewsletterModel::GetHotel($location);
-        $this->View->render('package/reservations-newsletter', array('location' => $location, 'hotels' => $hotels[0], 'rates' => $hotels[1]));
+        $hotels = NewsletterModel::GetHotel($ver, $location);
+        $this->View->render('package/reservations-newsletter', array('ver' => $ver, 'location' => $location, 'hotels' => $hotels[0], 'rates' => $hotels[1]));
     }
 
     public function success()

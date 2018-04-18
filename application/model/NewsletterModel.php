@@ -2,9 +2,9 @@
 
 class NewsletterModel
 {
-    public static function GetHotel($location)
+    public static function GetHotel($ver, $location)
     {
-        $json = file_get_contents(Config::get('URL') . 'data/newsletter.json');
+        $json = file_get_contents(Config::get('URL') . 'data/'.$ver.'-newsletter.json');
         $json_data = json_decode($json,true);
 
         $list_hotels = array();

@@ -1,4 +1,20 @@
-<br><br>
+<style type="text/css">
+    .banner-image{
+        margin: auto; 
+        width: 100%; 
+        max-width: 1140px; 
+        display: none;
+    }
+</style>
+<?php
+$i = 1;
+foreach ($this->hotels as $key => $value) {
+    ?>
+    <img class="banner-image" src="<?php echo Config::get('URL'); ?>assets/img/newsletter/<?= $this->ver; ?>/banners/<?= $this->location; ?>/<?= $i; ?>.jpg">
+    <?php
+    $i++;
+}
+?>
 <link rel="stylesheet" href="<?php echo Config::get('URL'); ?>public/vendor/bootstrap-datepicker/css/bootstrap-datepicker.min.css">
 <form class="js-validation-bootstrap" method="POST" action="<?php echo Config::get('URL'); ?>reservation/processnewsletter">
 <div class="section-container">
@@ -497,6 +513,13 @@
         });
 
         function getRate(){
+            var hotelindex = $('#packagehotel').prop('selectedIndex');
+            $('.banner-image').fadeOut(100);
+            $('.banner-image:eq('+hotelindex+')').delay(101).queue(function (next) { 
+                                                                    $(this).css('display', 'block'); 
+                                                                    next(); 
+                                                                  });
+
             var rate = $('#packagehotel').find(":selected").data('rate');
 
             if(rate <= 300){
