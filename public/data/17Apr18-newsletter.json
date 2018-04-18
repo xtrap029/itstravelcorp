@@ -1,0 +1,40 @@
+{
+    "location": 
+    {
+        "hongkong": 
+	    {
+	        "Panda Hotel ( Twin Sharing )": "114",
+	        "Silka Far East Hotel ( Twin Sharing )": "118",
+	        "Best Western Plus Knowloon ( Twin Sharing )": "130"
+	    },
+	    "bangkok": 
+	    {
+	        "Dream Town Pratunam Hotel ( Twin Sharing )": "99",
+	        "Bangkok Midtown Hotel ( Twin Sharing )": "113",
+	        "Ramada D'Ma Bangkok ( Twin Sharing )": "124"
+	    },
+	    "cebu": 
+	    {
+	        "The Orchard Hotel and Suites ( Twin Sharing )": "2668",
+	        "Summit Circle Cebu ( Twin Sharing )": "3998",
+	        "Rajah Park Hotel ( Twin Sharing )": "4007"
+	    },
+	    "puertoprincesa": 
+	    {
+	        "Marianne Home Inn ( Twin Sharing )": "920",
+	        "Ascendo Suites ( Twin Sharing )": "1316",
+	        "Casa Fuerte Bed and Dine ( Twin Sharing )": "1599"
+	    },
+	    "coron": 
+	    {
+	        "Coron Village Lodge ( Triple Sharing )": "7999",
+	        "Coron Village Lodge ( Twin Sharing )": "8773.35",
+	        "Jazmine's Place ( Twin Sharing )": "8313.35",
+	        "Jazmine's Place ( Triple Sharing )": "8141.35",
+	        "Sophia's Garden Resort ( Twin Sharing )": "10556.35",
+	        "Sophia's Garden Resort ( Triple Sharing )": "10556.35",
+	        "Two Seasons Coron Bayside ( Twin Sharing )": "14402.35",
+	        "Two Seasons Coron Bayside ( Triple Sharing )": "13373.35"
+	    }
+    }
+}
