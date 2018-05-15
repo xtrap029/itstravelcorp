@@ -24,7 +24,7 @@
     <a href="<?php echo Config::get('URL'); ?>reservation/newsletter/<?= $this->ver; ?>/batanes" target="_blank">
       <div style="width: 325px; height: 530px; position: absolute; margin-left: 329px;"></div>
     </a>
-    <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/<?= $this->ver; ?>/location/header.jpg" alt="Creating Email Magic" width="650" height="584" style="display: block;" />
+    <img src="<?php echo Config::get('URL'); ?>public/assets/img/newsletter/<?= $this->ver; ?>/location/HEADER.jpg" alt="Creating Email Magic" width="650" height="584" style="display: block;" />
   </td>
   </tr>
   <tr>
