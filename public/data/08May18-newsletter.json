@@ -1,0 +1,41 @@
+{
+    "location": 
+    {
+        "batanes": 
+	    {
+	        "ARGONZA'S INN ( Twin Sharing / 3D2N w/ Airfare)": "17299",
+	        "ARGONZA'S INN ( Twin Sharing / 4D3N w/ Airfare)": "20499",
+	        "NATHANIELS LODGE ( Twin Sharing / 3D2N w/ Airfare)": "17599",
+	        "NATHANIELS LODGE ( Twin Sharing / 4D3N w/ Airfare)": "21099",
+	        "AMBOY HOMETEL ( Twin Sharing / 3D2N w/ Airfare)": "19599",
+	        "AMBOY HOMETEL ( Twin Sharing / 4D3N w/ Airfare)": "23899"
+	    },
+	    "tacloban":
+	    {
+	        "ULDING'S HOTEL (3D2N)": "3019",
+	        "ULDING'S HOTEL (4D3N)": "3929"
+	    },
+	    "iloilo":
+	    {
+	        "GT HOTEL ILOILO (3D2N)": "3539",
+	        "GT HOTEL ILOILO (4D3N)": "4649"
+	    },
+	    "phuket": 
+	    {
+	        "ASPIRA PRIME PATONG ( Twin/Triple Sharing )": "6288",
+	        "BARAMEE RESORTEL ( Twin/Triple Sharing )": "6488",
+	        "THE MARINA PHUKET HOTEL ( Twin Sharing )": "8088",
+	        "THE MARINA PHUKET HOTEL ( Triple Sharing )": "7588"
+	    },
+	    "bali": 
+	    {
+	        "FAVE SUNSET SEMINYAK ( Twin/Triple Sharing )": "7488",
+	        "LEGIAN PARADISO ( Twin/Triple Sharing )": "8099",
+	        "BEST WESTERN KUTA VILLA ( Twin/Triple Sharing )": "8699"
+	    },
+	    "singapore": 
+	    {
+	        "FRAGRANCE SELEGIE ( Twin/Triple Sharing w/ Airfare)": "26299"
+	    }
+    }
+}

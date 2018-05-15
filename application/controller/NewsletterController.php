@@ -8,7 +8,7 @@ class NewsletterController extends Controller
     }
 
     public function ver($ver = null){
-    	if($ver == "17Apr18"){
+    	if($ver == "17Apr18" || $ver == "08May18"){
             $this->View->renderWithoutHeaderAndFooter('newsletter/'.$ver, array('ver' => $ver));
         }
         else{
